@@ -1,207 +1,74 @@
 [
     {
-        "title": "Hubs - Projects - Project - Copy Phase And Task From Other Actions Men",
-        "db": {
-            "accountingEnabled": true,
-            "crmEnabled": true,
-            "crmPlusEnabled": true,
-            "resourcePlanningEnabled": true,
-            "timeAndExpenseEnabled": true,
-            "assetManagemenEnabled": true,
-            "purchasingEnabled": true,
-            "payrollEnabled": true,
-            "multilingualEnabled": false,
-            "odbcEnabled": false,
-            "psaEnabled": false,
-            "pimMarketingCampaignEnabled": false,
-            "pimFirmsEnabled": true,
-            "activityEnabled": true,
-            "myStuffreportingEnabled": true,
-            "screenDesignerEnabled": true,
-        
-            "multiCompanyEnabled": true,
-            "multiCurrencyEnabled": true,
-            "usingCostRateTables": true,
-            "organizationEnabled": true,
-            "includeDiariesAssignedToClosePeriods": false,
-            "taxAuditingFeature": true, 
-            "filestreamEnabled": true,
-            "autonumberEnabled": false,
-            "requireEntryOfVoucherNumbers": false,
-            "requireTransactionDatesWithinActiveFiscalYear": true, 
-            "enableLeadQualification": true,
-            "enablePreinvoiceTab": true, 
-            "scheduledBillingEnabled": true,
-            "absenceRequestEnabled": true,
-            "crossChargeFeatureEnabled": true, 
-            "enableUnitsDisplay": true, 
-            "cashBasisReportingEnabled": true, 
-            "analysisCubes": false 
-        },
-        "disabled" : "true"
+        "error": "Timed out",
+        "fail_type": "Environment Issue"
     },
     {
-        "title": "Hubs - Projects - Project - Copy Phase And Task From Other Actions Men",
-        "db": {
-            "accountingEnabled": true,
-            "crmEnabled": true,
-            "crmPlusEnabled": true,
-            "resourcePlanningEnabled": true,
-            "timeAndExpenseEnabled": true,
-            "assetManagemenEnabled": true,
-            "purchasingEnabled": true,
-            "payrollEnabled": true,
-            "multilingualEnabled": false,
-            "odbcEnabled": false,
-            "psaEnabled": false,
-            "pimMarketingCampaignEnabled": false,
-            "pimFirmsEnabled": true,
-            "activityEnabled": true,
-            "myStuffreportingEnabled": true,
-            "screenDesignerEnabled": true,
-        
-            "multiCompanyEnabled": true,
-            "multiCurrencyEnabled": true,
-            "usingCostRateTables": true,
-            "organizationEnabled": true,
-            "includeDiariesAssignedToClosePeriods": false,
-            "taxAuditingFeature": true, 
-            "filestreamEnabled": true,
-            "autonumberEnabled": false,
-            "requireEntryOfVoucherNumbers": false,
-            "requireTransactionDatesWithinActiveFiscalYear": true, 
-            "enableLeadQualification": true,
-            "enablePreinvoiceTab": true, 
-            "scheduledBillingEnabled": true,
-            "absenceRequestEnabled": true,
-            "crossChargeFeatureEnabled": true, 
-            "enableUnitsDisplay": true, 
-            "cashBasisReportingEnabled": true, 
-            "analysisCubes": false 
-        },
-        "disabled" : "true"
+        "error": "Element was not found in",
+        "fail_type": "Test Issue"
     },
     {
-        "title": "Happy Path - Hubs - Projects - Plan - Task Dependencies - Auto Scheduling",
-        "db": {
-            "accountingEnabled": true,
-            "crmEnabled": true,
-            "crmPlusEnabled": true,
-            "resourcePlanningEnabled": true,
-            "timeAndExpenseEnabled": true,
-            "assetManagemenEnabled": true,
-            "purchasingEnabled": true,
-            "payrollEnabled": true,
-            "multilingualEnabled": false,
-            "odbcEnabled": false,
-            "psaEnabled": false,
-            "pimMarketingCampaignEnabled": false,
-            "pimFirmsEnabled": true,
-            "activityEnabled": true,
-            "myStuffreportingEnabled": true,
-            "screenDesignerEnabled": true,
-        
-            "multiCompanyEnabled": true,
-            "multiCurrencyEnabled": true,
-            "usingCostRateTables": true,
-            "organizationEnabled": true,
-            "includeDiariesAssignedToClosePeriods": false,
-            "taxAuditingFeature": true, 
-            "filestreamEnabled": true,
-            "autonumberEnabled": false,
-            "requireEntryOfVoucherNumbers": false,
-            "requireTransactionDatesWithinActiveFiscalYear": true, 
-            "enableLeadQualification": true,
-            "enablePreinvoiceTab": true, 
-            "scheduledBillingEnabled": true,
-            "absenceRequestEnabled": true,
-            "crossChargeFeatureEnabled": true, 
-            "enableUnitsDisplay": true, 
-            "cashBasisReportingEnabled": true, 
-            "analysisCubes": false 
-        },
-        "disabled" : "true"
+        "error": "Timed out while waiting 0000ms",
+        "fail_type": "Environment Issue"
     },
     {
-        "title": "Happy Path - Hubs - Projects - Plan - Gantt Change Duration Of Schedule With No Planned Hours",
-        "db": {
-            "accountingEnabled": true,
-            "crmEnabled": true,
-            "crmPlusEnabled": true,
-            "resourcePlanningEnabled": true,
-            "timeAndExpenseEnabled": true,
-            "assetManagemenEnabled": true,
-            "purchasingEnabled": true,
-            "payrollEnabled": true,
-            "multilingualEnabled": false,
-            "odbcEnabled": false,
-            "psaEnabled": false,
-            "pimMarketingCampaignEnabled": false,
-            "pimFirmsEnabled": true,
-            "activityEnabled": true,
-            "myStuffreportingEnabled": true,
-            "screenDesignerEnabled": true,
-        
-            "multiCompanyEnabled": true,
-            "multiCurrencyEnabled": true,
-            "usingCostRateTables": true,
-            "organizationEnabled": true,
-            "includeDiariesAssignedToClosePeriods": false,
-            "taxAuditingFeature": true, 
-            "filestreamEnabled": true,
-            "autonumberEnabled": false,
-            "requireEntryOfVoucherNumbers": false,
-            "requireTransactionDatesWithinActiveFiscalYear": true, 
-            "enableLeadQualification": true,
-            "enablePreinvoiceTab": true, 
-            "scheduledBillingEnabled": true,
-            "absenceRequestEnabled": true,
-            "crossChargeFeatureEnabled": true, 
-            "enableUnitsDisplay": true, 
-            "cashBasisReportingEnabled": true, 
-            "analysisCubes": false 
-        },
-        "disabled" : "true"
+        "error": "expected but got",
+        "fail_type": "Possible Bug"
     },
     {
-        "title": "Happy Path - Hubs - Projects - Plan - Multiple Calendar Period - Verify 9 Sub-Row in RP Grid",
-        "db": {
-            "accountingEnabled": true,
-            "crmEnabled": true,
-            "crmPlusEnabled": true,
-            "resourcePlanningEnabled": true,
-            "timeAndExpenseEnabled": true,
-            "assetManagemenEnabled": true,
-            "purchasingEnabled": true,
-            "payrollEnabled": true,
-            "multilingualEnabled": false,
-            "odbcEnabled": false,
-            "psaEnabled": false,
-            "pimMarketingCampaignEnabled": false,
-            "pimFirmsEnabled": true,
-            "activityEnabled": true,
-            "myStuffreportingEnabled": true,
-            "screenDesignerEnabled": true,
-        
-            "multiCompanyEnabled": true,
-            "multiCurrencyEnabled": true,
-            "usingCostRateTables": true,
-            "organizationEnabled": true,
-            "includeDiariesAssignedToClosePeriods": false,
-            "taxAuditingFeature": true, 
-            "filestreamEnabled": true,
-            "autonumberEnabled": false,
-            "requireEntryOfVoucherNumbers": false,
-            "requireTransactionDatesWithinActiveFiscalYear": true, 
-            "enableLeadQualification": true,
-            "enablePreinvoiceTab": true, 
-            "scheduledBillingEnabled": true,
-            "absenceRequestEnabled": true,
-            "crossChargeFeatureEnabled": true, 
-            "enableUnitsDisplay": true, 
-            "cashBasisReportingEnabled": true, 
-            "analysisCubes": false 
-        },
-        "disabled" : "true"
+        "error": "Grid is empty",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "is not a function",
+        "fail_type": "Test Issue"
+    },
+    {
+        "error": "Application exists",
+        "fail_type": "Unknown"
+    },
+    {
+        "error": "Error while waiting for new tab",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "at NightwatchAPI",
+        "fail_type": "Test Issue"
+    },
+    {
+        "error": "cannot be located",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "not found",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "elementIdAttribute",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "elementIdAttribute()",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "does not exist",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "Cannot read property split",
+        "fail_type": "Test Issue"
+    },
+    {
+        "error": "elementIdValue()",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "elements is not a function",
+        "fail_type": "Environment Issue"
+    },
+    {
+        "error": "elementIdAttribute()",
+        "fail_type": "Environment Issue"
     }
 ]

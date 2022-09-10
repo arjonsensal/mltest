@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import * as tf from "@tensorflow/tfjs";
-import Tokenizer from "./Tokenizer";
 import { useEffect } from 'react';
 import * as use from "@tensorflow-models/universal-sentence-encoder";
+const errors = require('./data.json');
 
 
 var aa = [{text: "Arjon", m: "ass"},{text: "Arjo1n", m: "asssa"},{text: "Arjo13n", m: "as23s"},{text: "Arjo1n5", m: "a4ss"}]
@@ -11,63 +11,105 @@ var aa1 = [{text: "Arjon"},{text: "Arjo1n"},{text: "Arjo13n"},{text: "Arjo1n5"}]
 
 function App() {
 
-  const apps = [
-    'Hubs - Projects - Plan',
-    'Hubs - Activities',
-    'Hubs - Billing Terms',
-    'Hubs - Firms',
-    'Resource Management',
-    'Projects - Project',
-    'Hubs - Boilerplate'
+  const test = [
+    'An error occurred while running .click() command on <Element [name=@dialog_messageBoxYesBtn]>:',
+    'Page Extension - Success status message for saved exists - expected "found" but got: "not found"',
+    'Page Extension - Application (Timekeeper) exists in DOM - expected "found" but got: "not found"',
+    'Failed [fail]: (Error while waiting for new tab after 10 milliseconds)'
   ];
   
 
-  const encodeData = async (encoder, tasks) => {
-    const sentences = tasks//.map(t => t.text.toLowerCase());
-    const embeddings = await encoder.embed(sentences);
+  const trainModel = async (encoder, data) => {
+    const sentences = errors.map(t => t.error.toLowerCase());
 
-    const Testapps = [
-      'Happy - Hubs - Projects - Plan - Plan Checked In Dialog When Plan is Forcibly Checked In',
-    ];
-    const embeddingste = await encoder.embed(Testapps);
-    // 0 - rpenabled 1 - accounting 2 - crm 3 - payroll
-    const out = tf.tensor2d([[1,0,0,0], [0,0,1,0], [0,0,1,0], [1,1,0,0], [1,1,1,0], [1,0,0,0], [0,0,1,0]]);
+    const embeddingste = await encoder.embed(sentences);
+    const embeddingstest = await encoder.embed(data);
+    // 0 - Environment Issue// 1 - Test Issue // 2 - Bug // 3 - Unknown
+    const out = tf.tensor2d(errors.map(err => 
+      // [err.fail_type === "Environment Issue" ? 0 : 1, err.fail_type === "Environment Issue" ? 1 : 0]
+      {
+      var outs;
+      switch(err.fail_type) {
+        case "Environment Issue": 
+        outs = [0,0];
+        break;
+        
+        case "Test Issue": 
+        outs = [0,1];
+        break;
+
+        case "Possible Bug": 
+        outs = [1,0];
+        break;
+
+        default: 
+        outs = [1,1];
+      }
+      return outs;
+    }
+    ));
 
     const model = tf.sequential();
 
-    model.add(tf.layers.dense({
-      inputShape: [embeddings.shape[1]],
-      activation: "sigmoid",
-      units: 2
-    }));
-    model.add(tf.layers.dense({
-      inputShape: [2],
-      activation: "sigmoid",
-      units: 5
-    }));
+    // model.add(tf.layers.dense({
+    //   inputShape: [embeddingste.shape[1]],
+    //   activation: "sigmoid",
+    //   units: 2
+    // }));
+    // model.add(tf.layers.dense({
+    //   inputShape: [2],
+    //   activation: "sigmoid",
+    //   units: 5
+    // }));
 
-    model.add(tf.layers.dense({
-      activation: "sigmoid",
-      units: 4
-    }));
+    // model.add(tf.layers.dense({
+    //   activation: "sigmoid",
+    //   units: 2
+    // }));
 
+    // model.compile({
+    //   loss: "meanSquaredError",
+    //   optimizer: tf.train.adam(.06)
+    // });
+
+    model.add(
+      tf.layers.dense({
+        inputShape: [embeddingste.shape[1]],
+        activation: "softmax",
+        units: 2,
+      })
+    )
     model.compile({
-      loss: "meanSquaredError",
-      optimizer: tf.train.adam(.06)
-    });
+      loss: "categoricalCrossentropy",
+      optimizer: tf.train.adam(0.001),
+      metrics: ["accuracy"],
+    })
 
-    model.fit(embeddings, out, {epochs: 100})
+    // model.fit(embeddingste, out, {epochs: 100})
+    //   .then((history) => {
+    //     console.log(history)
+    //     model.predict(embeddingstest).print();
+    //   })
+    await model.fit(embeddingste, out, {
+      batchSize: 32,
+      validationSplit: 0.1,
+      shuffle: true,
+      epochs: 150
+    })
       .then((history) => {
         console.log(history)
-        model.predict(embeddingste).print();
+        model.predict(embeddingstest).print();
       })
+
   };
   
   
+
   useEffect(() => {
     const loadModel = async () => {
       const sentenceEncoder = await use.load();
-      const trainedModel = await encodeData(sentenceEncoder, apps);
+      // const embeddingsp = await use.load().embed(test);
+      const mod = await trainModel(sentenceEncoder, test.map(t => t.toLowerCase()));
     };
     loadModel();
   }, []);
