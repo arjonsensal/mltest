@@ -1,0 +1,34 @@
+for client side
+In utilities page, maybe add on utilities tab
+ - Add ui (grid) for list builds available, maybe sort into test types
+ - at end of each row of builds, a button named Analyze Failure types? which will get the buildid and call backend api
+
+for server side
+- get build based on build -> run function for each data to analyze fail type -> return data to the db
+
+- Add new sql to get all failures and errors from a build id 
+- a function with the input of an build run and output of same build run but different fail type
+- function will call the model ai to analyze build
+- add new sql to edit data to the db  
+
+- create the model ai
+
+
+Data to do
+- need image for each error to better analyze the fail type
+- Add keywords in a json file based on the errors
+sample: 
+{
+'error': "Timed out" // if timeout keyword is found in a text there is a high prob that this is a Environment/server issue
+'fail_type': "Environment Issue"
+},
+
+{
+'error': "Timed out while waiting 0000ms" // if timeout keyword is found in a text there is a high prob that this is a Environment/server issue
+'fail_type': "Environment Issue"
+},
+
+00
+01
+10
+11
