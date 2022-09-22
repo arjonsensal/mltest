@@ -3,6 +3,7 @@ import './App.css';
 import * as tf from "@tensorflow/tfjs";
 import { useEffect } from 'react';
 import * as use from "@tensorflow-models/universal-sentence-encoder";
+import axios from 'axios';
 const errors = require('./data.json');
 
 
@@ -12,10 +13,11 @@ var aa1 = [{text: "Arjon"},{text: "Arjo1n"},{text: "Arjo13n"},{text: "Arjo1n5"}]
 function App() {
 
   const test = [
-    'An error occurred while running .click() command on <Element [name=@dialog_messageBoxYesBtn]>:',
+    'Timed out',
     'Page Extension - Success status message for saved exists - expected "found" but got: "not found"',
     'Page Extension - Application (Timekeeper) exists in DOM - expected "found" but got: "not found"',
-    'Failed [fail]: (Error while waiting for new tab after 10 milliseconds)'
+    'Failed [fail]: (Error while waiting for new tab after 10 milliseconds)',
+    'at NightwatchAPI.<anonymous>'
   ];
   
 
@@ -29,21 +31,25 @@ function App() {
       // [err.fail_type === "Environment Issue" ? 0 : 1, err.fail_type === "Environment Issue" ? 1 : 0]
       {
       var outs;
-      switch(err.fail_type) {
+      switch(err.failure_type) {
         case "Environment Issue": 
-        outs = [0,0];
+        outs = [0,0,1];
         break;
         
         case "Test Issue": 
-        outs = [0,1];
+        outs = [0,1,0];
         break;
 
-        case "Possible Bug": 
-        outs = [1,0];
+        case "Bug": 
+        outs = [1,0,0];
+        break;
+
+        case "On-going Feature Work": 
+        outs = [1,0,1];
         break;
 
         default: 
-        outs = [1,1];
+        outs = [1,1,1];
       }
       return outs;
     }
@@ -76,7 +82,7 @@ function App() {
       tf.layers.dense({
         inputShape: [embeddingste.shape[1]],
         activation: "softmax",
-        units: 2,
+        units: 3,
       })
     )
     model.compile({
@@ -97,7 +103,6 @@ function App() {
       epochs: 150
     })
       .then((history) => {
-        console.log(history)
         model.predict(embeddingstest).print();
       })
 
@@ -105,15 +110,25 @@ function App() {
   
   
 
-  useEffect(() => {
-    const loadModel = async () => {
-      const sentenceEncoder = await use.load();
-      // const embeddingsp = await use.load().embed(test);
-      const mod = await trainModel(sentenceEncoder, test.map(t => t.toLowerCase()));
-    };
-    loadModel();
-  }, []);
+  // useEffect(() => {
+  //   const loadModel = async () => {
+  //     const sentenceEncoder = await use.load();
+  //     // const embeddingsp = await use.load().embed(test);
+  //     const mod = await trainModel(sentenceEncoder, test.map(t => t.toLowerCase()));
+  //   };
+  //   loadModel();
+  // }, []);
 
+const uploadFile = (event) => {
+  const data = new FormData() ;
+  data.append('file', event.target.files[0]);
+  axios.post("http://localhost:3001/uploadFile", data)
+      .then(res => { // then print response status
+        axios.get("http://localhost:3001/train").then((st) => {
+          console.log(st.statusText);
+        })
+      })
+}
 
   return (
     <div className="App">
@@ -130,6 +145,7 @@ function App() {
         >
           Learn React
         </a>
+      <input type="file" onChange={uploadFile} />
       </header>
     </div>
   );

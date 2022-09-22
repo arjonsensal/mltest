@@ -1,0 +1,2350 @@
+[
+    {
+        "error": "An error occurred while running .click() command on <.billCost.popup-arrow>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button[data-id=''yes'']>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[class*=''status-message success'']:not([style*=''display: none;''])>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CO''] table.bodyTable tr:nth-child(1) td[name = ''PONumber''] span.cellLink>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''POCOSTDETAIL''] table.bodyTable tr:nth-child(2) td[name = ''ClientID'']>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''RO''] table.bodyTable tr:nth-child(1) td[name = ''PONumber''] span.cellLink>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_newProject_PromotionalProjectNumTxtbox]>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_SaveBtn]>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_groupOptions_ApplyBtn]>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_messageBoxYesBtn]>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[class*=''reporting_reports''] div[data-id=''reportsGrid''] *.grid-spinner>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''ReportGroups''] *.grid-spinner>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''RO''] *.grid-spinner>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div.values-on-chart>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''EditStructurePageGrid''] table.bodyTable tr:nth-child(3) td[name = ''WBSNumber''] div.treeValue input>:",
+        "failure_type": "001"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=EmployeesNotAssociatedContactsContainer] div[class*=x-crmcardlist-inner]> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Checking if Actions Menu is available - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Checking if Changing Billing Client dialog is visible - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Checking if Changing Primary Client/Ownership dialog is visible - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Checking if Project Structure is available - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Column Headers are Correct in 1000 ms. - expected \"~Column Name~Filters~Calculated Fields~Date Ranges~Properties~Hide Column~\" but got: \"~Column Name~Filters~Calculated Fields~Date Ranges~Properties~Drill To~Hide Column~\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"elementIdEnabled\" command: \"Error: First argument passed to .elementIdEnabled() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"elementIdSelected\" command: \"Error: First argument passed to .elementIdSelected() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"execute\" command: Cannot read property ''method'' of undefined",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"execute\" command: Cannot read property ''response'' of undefined",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"perform\" command: mainPage.GetCellValue is not a function",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"perform\" command: screenDesignerPage.SetCellText(...).assert.ColumnHeaderAvailable(...).assert.CellReadOnly(...).GetCellValue is not a function",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"perform\" command: The plan is not included in scheduled",
+        "failure_type": "001"
+    },
+    {
+        "error": "Error while running \"perform\" command: Timeout while waiting (60000ms) for the .perform() command callback to be called.",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.section-placeholder span.title-text> text to equal: \"Chart-1 7371Edited\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.section-placeholder span.title-text> text to equal: \"Chart-2 7371Edited\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.section-placeholder span.title-text> text to equal: \"Chart-3 7371Edited\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.xdsoft_datetimepicker[style *= ''block''] div.xdsoft_monthselect> to not be visible in 5000ms - element was not found - expected \"not visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.xdsoft_datetimepicker[style *= ''block''] div.xdsoft_monthselect> to not be visible in 5000ms - expected \"not visible\" but got: \"visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div.xdsoft_datetimepicker[style *= ''block''] div.xdsoft_yearselect[style *= ''none'']> to not be visible in 5000ms - element was not found - expected \"not visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div[aria-describedby=''application_dialog_ctl_CalculatedFields''] span.ui-dialog-title> to be present - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div[class*=''page-container''][style*=''block''] div#billCostSidebarToggle div.billCostSwitch b> text to not equal: \"Summary Section:\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div[class*=''page-container''][style*=''block''] div[data-id=''PR.WBSNumber'']  div.core-error> text to equal: \"Required\" - expected \"equal ''Required''\" but got: \"\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div[data-id=''ReportOptions.baseOverrideHeadingRange_startDate''] input> to have attribute \"disabled\" - attribute was not found - expected \"found\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Expected element <div[data-id=''ReportOptions.baseOverrideHeadingRange_startDate''] input> to not have attribute \"disabled\" - expected \"not found\" but got: \"found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''editProjectDetails''] div[id*=''deltekfieldset'']:nth-child(11) div[id*=''deltektextfield''][style]:nth-child(4)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-reportdetails''] div[id*=''ext-title''] div.x-innerhtml> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=companyQuery]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=companyQuery]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <li[data-key=''ALL'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <li[data-key=edit]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span.action-icon[action-bar-data=''List view'']> to be removed for 180000 milliseconds. - expected \"not found\" but got: \"found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span.action-icon[action-bar-data=''NewDashboard'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span.adv-search-row> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span.navigator_popupmenu[action-bar-data=''actionsMenu'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span.ui-dialog-title> to be removed for 180000 milliseconds. - expected \"not found\" but got: \"found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''actionsMenu''][class*=''navigator_popupmenu'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''actionsMenu'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''columnFilter'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=gridView]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''plan-actions''].action-popup.navigator_popupmenu> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''plan-actions''].action-popup.navigator_popupmenu> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''Save'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <span[data-id=''ReportOptions.baseReportName'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "Timed out while waiting for element <td.nav-ddwn-td div.dropdown-field-container> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "001"
+    },
+    {
+        "error": "    at D:\\azagent\\A1\\_work\\3\\s\\tests\\web\\nightwatch\\api_v2\\utils\\grid.js:67:38",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at emitError (D:\\azagent\\A1\\_work\\5\\s\\tests\\mobile\\nightwatch\\config-data\\webAPI\\webAPIConnector.js:170:45)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_LoadNextBatchOfUnitTables.js:151:112)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\5\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_TimesheetHoursAndUnitsScroll.js:154:31)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\5\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testList.js:523:69)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.editTimesheetAudits (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\time\\timesheetAudit.js:9:46)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.editTimesheetAudits (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\time\\timesheetAudit.js:9:46)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.setSecurityField (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\general\\screenDesigner.js:15:47)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.setSecurityField (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\general\\screenDesigner.js:15:47)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.UpdateEmployee (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\pages\\hubsWeb\\employees.js:18:45)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.UpdateEmployee (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\pages\\hubsWeb\\employees.js:18:45)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.updateUser (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\security\\users.js:19:41)",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at Page.updateUser (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\pages\\settingsWeb\\security\\users.js:19:41)",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <(//div[(contains(@class,''results-container'') and not(contains(@class,''pendo''))) and not(contains(@style, ''display: none''))]//li[not(contains(@class,''dimmed'')) and @tabindex])[1]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.main-body div[class*=''main-body-contents'']:not([style=''display: none;'']) div.section-add span.linked-text.res-desktop>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.ui-dialog-content table.bodyTable tr:nth-child(1) td[name=\"Comment\"]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[class*=''change-records''] span[action-bar-data=''run'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-category-id=\"All Dashboards\"] div.nav-item:nth-child(2)>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-section-id=''Dashpart5''] button.dashpart-title-toolbar-button-maximize>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_ApproveCmbbox]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_BackIconBtn]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_PageTitleLbl]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_ProjectStructureBtn]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_TimeGroupsPageTitleLbl]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_optionsTab_PaymentRegisterBanksCheckAllChkbox]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_summaryPane_FirmTypeQEdit]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_projectReviewOptions_CancelBtn]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_schedule_OkBtn]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div#vendorLookupDiv div#lookupList *.grid-spinner .spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div.core_dropdown_field[data-id=''BankCode'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div.no-results>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div.ui-dialog div.row.common-fields div[data-id=''HoursQuantity_caption''] div.core-label-container>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[class*=''page-container''][style*=''block''] div.section-search.core_dropdown_field td.nav-ddwn-td div.nav-ddwn-ctrl>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id= ''BTTaxCodes''] *.grid-spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id= ''INLANDING''] *.grid-spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''CFGModuleConfiguration''] *.grid-spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''ContractListPageGrid''] *.grid-spinner .spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''EditStructurePageGrid''] *.grid-spinner .spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''endDateRange_alignToPeriod'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''endDateRange_specificPeriod'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''ListPageGrid''] *.grid-spinner .spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''ReportGroups''] table.bodyTable tr:nth-child(3) td[name = ''pageBreak'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=ReviewDrilldownDialogGrid] *.grid-spinner .spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-section-id=''365E52460382460A9E8F790684447F67''] div.custom-dashpart-container *.grid-spinner>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <th[name = ''InvoiceAmount'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getText() command on <span.company-selector-menu-anchor>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .getValue() command on <Element [name=@databaseTxtbox]>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .isVisible() command on <div.tab-header a[data-tab-id=''rates'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div#wbs2List>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div.section-placeholder[data-section-id=''3219FBEBA175441A90048700D10F341C''] table.bodyTable tr:nth-child(4) td[name = ''ETCPlannedHours'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[class =''application-title main-title truncateText'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id = ''apDetail''] table.bodyTable tr:nth-child(2) td[name = ''NetAmount'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id*=''ReportOptions.groupOther_baseShowTotalsOnHeader'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''CA.Account'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''ColumnPresentationContainer''] table.bodyTable tr:nth-child(6) td[name = ''Heading'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''ColumnPresentationContainer''] table.bodyTable tr:nth-child(7) td[name = ''Heading'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''FW_ReportCustomColumns.calculationPanel_mainExpDisp'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''ListPageGrid'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''LowerLevelLongName'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''NUMBERGRID''] table.bodyTable tr:nth-child(18) td[name = ''Delim1'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''PRMILESTONE'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''ReportColumns'']>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <span#stormBannerSettingsMenu>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div.causesGrid table.bodyTable tr:nth-child(1) td[name = ''Clause''] div.input-element.html-input>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id = ''PRLANDING''] table.hdrTable tr.filterRow div[data-id = ''Description_filter'' i] input>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id= ''INLANDING''] table.hdrTable tr.filterRow div[data-id = ''Description_filter'' i] input>:",
+        "failure_type": "100"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=ContactsNotAssociatedClientsContainer] div[class*=x-crmcardlist-inner]> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=''ext-chargescontainer''] div[id*=''ext-chargeslist'']> : <false> in 1000 ms. - expected \"false\" but got: \"true\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=''ext-contactsLookupList''] div[class*=''x-crmcardlist'']> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Change Allocation Method in 1000 ms. - expected \"\" but got: \"null\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Checking if AFUIP is available - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Checking if Billing Expense Insert dialog is ready - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Checking if Dialog is available - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Checking if Project Structure grid is available - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Columns are added correctly in 1000 ms. - expected \"Employee Number~Direct Amount~Indirect Amount~1AUTOCALCULATION\" but got: \"\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Columns are added correctly in 1000 ms. - expected \"Employee Number~Direct Amount~Indirect Amount~1AUTOCALCULATION\" but got: \"WBS Level Name~Billed Amount~Unbilled Amount~Hours~Regular Hours~CalcScenario_1~CalcScenario_2~CalcScenario_3~CalcScenario_4~CalcScenario_5~CalcScenario_6~CalcScenario_7~CalcScenario_8\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Date Range Total Hours matched in 1000 ms. - expected \"48.00\" but got: \"0.00\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "EAC Overhead Amount Cost matched in 1000 ms. - expected \"0.00 USD\" but got: \"784,233.10 USD\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Email were successfully sent. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"CellValueContains\" command: value.includes is not a function",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Cannot read property ''element'' of undefined",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Cannot read property ''waitForElementPresent'' of undefined",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Billing Terms Dashboard not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Calculated Field Automation not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Dashboard_1259696 not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard HP Always Rebuild Dashparts 844 not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard PDB_Dashboard_Security_973178 not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Project Unposted Billing not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Time Management Dashboard not found",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: value.includes is not a function",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"elementIdValue\" command: field_value.trim is not a function",
+        "failure_type": "100"
+    },
+    {
+        "error": "Error while running \"perform\" command: cellDet.value.split is not a function",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div.nav-item[title=\"Export Project Details 7371\"]> to be visible - element was not found - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div.ui-dialog> to not be present - element was present in 180195ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div.ui-dialog> to not be present - element was present in 180241ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div.xdsoft_datetimepicker[style *= ''block''] div.xdsoft_monthselect> to be visible in 5000ms - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[class*=''status-message warning'']:not([style*=''display: none;''])> to not be present in 100ms - element was present in 534ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-category-id=''All Dashboards''] div.app-item:nth-child(2)> text to equal: \"ARComments1513883\" - expected \"equal ''ARComments1513883''\" but got: \"Project Detail Base Group 3.4400\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-category-id=''All Dashboards''] div.app-item:nth-child(2)> text to equal: \"Dashboard_1277659\" - expected \"equal ''Dashboard_1277659''\" but got: \"Labor Cost Analysis 66\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-category-id=''All Dashboards''] div.app-item:nth-child(2)> text to equal: \"ProjBaseRatioColsDSB_1222381\" - expected \"equal ''ProjBaseRatioColsDSB_1222381''\" but got: \"Project Analysis 1\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-category-id=''All Dashboards''] div.app-item:nth-child(2)> text to equal: \"Project Detail Base Group 3.3565\" - expected \"equal ''Project Detail Base Group 3.3565''\" but got: \"Project Details Chart 1 7371\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-id = ''InvoiceHistory'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"col-sm-12 canvas-component core_grid navigator_rpgrid sectionGrid core-component presentation-mode auto-height-rows\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-id=''Language'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-4 canvas-component core_dropdown_field is-locked core-component edit-mode no-quick-edit fluid\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-id=''NUMBERGRID'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-id=''PURCHASEORDER'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Expected element <div[data-id=''PURCHASEREQUISITION'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''calendarTaskActivitydetailsContainer''] div[id*=''ext-titlebar''] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''calendarTaskActivitydetailsContainer''] div[id*=''ext-titlebar''] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails]  div[id*=ext-titlebar] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset]:nth-child(6) div[id*=ext-deltekselectfield]:nth-child(2)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset]:nth-child(7) div[id*=ext-deltektimeedit]:nth-child(3)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-addContact] div[class*=newContactContainer][id*=ext-deltektextfield]:nth-child(1)> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-addContact] div[id*=ext-toolbar] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-editClientDetails''] div[class*=''editViewCustomFields'']:nth-child(2) div[id*=''ext-deltektextfield'']:nth-child(8)> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''loginform''] div[class*=''defaultfieldset''] div[class*=''textfield'']:nth-child(1)> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''loginform''] div[class*=''defaultfieldset''] div[class*=''textfield'']:nth-child(1)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''milestoneAssociationFormProject''] div[class*=''x-toolbar-inner''] div[id*=''ext-button'']:nth-child(1)> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[class*=''x-titlebar-right''] div[id*=''ext-deltekbutton'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[class*=''x-titlebar-right''] div[id*=''ext-deltekbutton'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[id*=''footer''] div[class*=''x-button'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[id*=''footer''] div[class*=''x-button'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[id*=''title'']:last-of-type> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''projectDetails''] div[id*=''title'']:last-of-type> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <iframe[id*=''webviewer'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <iframe[id*=''webviewer'']> to be removed for 180000 milliseconds. - expected \"not found\" but got: \"found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span#stormBannerSettingsMenu> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span.disabled> to be removed for 180000 milliseconds. - expected \"not found\" but got: \"found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''addField'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''OtherActions'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span[class=''ui-dialog-title'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span[data-id=''ReportOptions.baseReportName''] div.truncate_text> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <span[title=''Projects'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Timed out while waiting for element <td.nav-ddwn-td div.nav-ddwn-ctrl> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "undefined div[data-id=''available-report-cols''] Milestone Actual Start in 1000 ms. - expected \"Milestone Actual Start\" but got: \"Milestone Actual Start Date\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=activitiesLinkListClient] div[class*=x-crmcardlist-inner]> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Columns are added correctly in 1000 ms. - expected \"Project Manager Name~Billed Amount~Unbilled Amount~Project Currency Code~TestCalculation\" but got: \"Project Number~Total Amount Cost~Regular Amount Cost~Total Hours~Regular Hours~CalcScenario_1~CalcScenario_2~CalcScenario_3~CalcScenario_4~CalcScenario_5~CalcScenario_6~CalcScenario_7~CalcScenario_8\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Columns are added correctly in 1000 ms. - expected \"Project Number~Total Amount Cost~Regular Amount Cost~1AUTOCALCULATION\" but got: \"Project Number~Total Amount Cost~Regular Amount Cost~Total Hours~Regular Hours~CalcScenario_1~CalcScenario_2~CalcScenario_3~CalcScenario_4~CalcScenario_5~CalcScenario_6~CalcScenario_7~CalcScenario_8\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Columns are added correctly in 1000 ms. - expected \"Project Number~Total Amount Cost~Regular Amount Cost~Total Hours~Regular Hours~CalcScenario_1~CalcScenario_2~CalcScenario_3~CalcScenario_4~CalcScenario_5~CalcScenario_6~CalcScenario_7~CalcScenario_8\" but got: \"Project Number~Total Amount Cost~Regular Amount Cost~Total Hours~Regular Hours~CalcScenario_1~CalcScenario_2~CalcScenario_3~CalcScenario_4~CalcScenario_5~CalcScenario_6~CalcScenario_7~CalcScenario_8~Project Manager Name~Billed Amount~Unbilled Amount~Project Currency Code~TestCalculation\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "Dashpart Project Plan Summary - Cost is expected and available in 1000 ms. - expected \"present\" but got: \"not present\"",
+        "failure_type": "100"
+    },
+    {
+        "error": "    at D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\time\\uiSmoke\\time\\UI_TE_TIME_TU_UnitTable_NonEnglish.js:149:138",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Ability To Create New Milestone on Projects (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_AbilityToCreateNewMilestoneronProjects.js:61:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Ability To Create New Milestone on Projects (D:\\azagent\\A2\\_work\\14\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_AbilityToCreateNewMilestoneronProjects.js:61:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Behavior Of Milestone In Project Hub When Project Record Access is Modify Only (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyBehaviorOfMilestoneInProjectHubWhenProjectRecordAccessIsModifyOnly.js:43:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Behavior Of Milestone In Project Hub When Project Record Access is Modify Only (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyBehaviorOfMilestoneInProjectHubWhenProjectRecordAccessIsModifyOnly.js:43:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Behavior Of Milestone In Project Hub When Project Record Access is Modify Only (D:\\azagent\\A2\\_work\\14\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyBehaviorOfMilestoneInProjectHubWhenProjectRecordAccessIsModifyOnly.js:43:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Translactions of new button and new milestone screen in Projects Hub : Scenario 2 - Create new milestone using Espanyol(internactional) Language (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyTranslationsofNewButtonsandNewMilestonesScreeninProjectHub.js:55:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Translactions of new button and new milestone screen in Projects Hub : Scenario 2 - Create new milestone using Espanyol(internactional) Language (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyTranslationsofNewButtonsandNewMilestonesScreeninProjectHub.js:55:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at HP - CRM - PRJ - Verify Translactions of new button and new milestone screen in Projects Hub : Scenario 2 - Create new milestone using Espanyol(internactional) Language (D:\\azagent\\A2\\_work\\14\\s\\tests\\mobile\\nightwatch\\tests\\crm\\happy\\projects\\HP_CRM_PRJ_VerifyTranslationsofNewButtonsandNewMilestonesScreeninProjectHub.js:55:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\1\\s\\tests\\mobile\\nightwatch\\tests\\time\\e2e\\time\\E2E_TE_Time_TimesheetUnits.js:120:112)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\1\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_TimesheetHoursAndUnitsScroll.js:193:31)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\1\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testTextArea.js:228:98)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\10\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testList.js:523:69)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testList.js:523:69)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_BudgetValidationErrorWithBudgetWorksheetAndNoLaborCodeLevels.js:109:31)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_BudgetValidationErrorWithBudgetWorksheetAndYesLaborCodeLevels.js:128:31)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_BudgetValidationWarningWithBudgetWorksheetAndNoLaborCodeLevels.js:110:31)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\13\\s\\tests\\web\\nightwatch\\api_v2\\utils\\combobox.js:211:6)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\13\\s\\tests\\web\\nightwatch\\api_v2\\utils\\grid.js:393:29)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\3\\s\\tests\\web\\nightwatch\\api_v2\\utils\\grid.js:388:29)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\5\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_LoadNextBatchOfUnitTables.js:151:112)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\9\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_LoadNextBatchOfUnitTables.js:151:112)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A1\\_work\\9\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testList.js:523:69)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A2\\_work\\14\\s\\tests\\mobile\\nightwatch\\tests\\time\\happy\\time\\HP_TE_TIME_LoadNextBatchOfUnitTables.js:151:112)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at NightwatchAPI.<anonymous> (D:\\azagent\\A2\\_work\\14\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testList.js:523:69)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Object.<anonymous> (D:\\azagent\\A1\\_work\\13\\s\\tests\\web\\nightwatch\\extension\\testCase.js:513:6)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Object.<anonymous> (D:\\azagent\\A1\\_work\\3\\s\\tests\\web\\nightwatch\\api_v2\\utils\\grid.js:166:21)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Object.<anonymous> (D:\\azagent\\A1\\_work\\3\\s\\tests\\web\\nightwatch\\extension\\testCase.js:525:6)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Object.<anonymous> (D:\\azagent\\A1\\_work\\4\\s\\tests\\web\\nightwatch\\extension\\testCase.js:513:6)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Object.<anonymous> (D:\\azagent\\A1\\_work\\9\\s\\tests\\mobile\\nightwatch\\utils\\testElement\\testCombobox.js:115:33)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Page.createEmployee (D:\\azagent\\A1\\_work\\11\\s\\tests\\mobile\\nightwatch\\pages\\hubsWeb\\employees.js:9:45)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at Page.createEmployee (D:\\azagent\\A1\\_work\\12\\s\\tests\\mobile\\nightwatch\\pages\\hubsWeb\\employees.js:9:45)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at UI Smoke - CRM - Contacts - Add Edit View - Misc Tab (D:\\azagent\\A1\\_work\\5\\s\\tests\\mobile\\nightwatch\\tests\\crm\\uiSmoke\\contacts\\UI_CRM_CNT_AddEditView_MiscTab.js:260:14)",
+        "failure_type": "010"
+    },
+    {
+        "error": "    at UI Smoke - CRM - Contacts - Add Edit View - Misc Tab (D:\\azagent\\A1\\_work\\9\\s\\tests\\mobile\\nightwatch\\tests\\crm\\uiSmoke\\contacts\\UI_CRM_CNT_AddEditView_MiscTab.js:260:14)",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .clearValue() command on <[id=''hrsGrid''] table.bodyTable tr.selected td[name=''T_day5''] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <#available-report-colsBody tr[data-row-key=''Client''] td>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <*[class=\"page-label\"]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <//div[contains(@parentnavigatorctlid,''DetailAcGrid'')] //div[contains(@class,''ddwnTable'')] //div[@name=''GroupTypeDesc'' and text()=''Asset'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button.btn.primary.save-btn>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button.save-btn>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button[class=''btn primary save-btn'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button[data-id=''save'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button[data-id=''transfer'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <button[name=''appNavDoneButton'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.main-body div[class*=''page-container''][style*=''block''] div.section-add span.linked-text.res-desktop>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.planningGrid.pm-labor div#calendarGrid table.bodyTable tr:nth-child(6) td[name=''PlannedHrs1'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.popup-body li[data-key=\"PrintCurrentSearch\"]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.recommendation-close>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div.va-search div.clear-action>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''Activity''] div[data-id=''Activity''] table.bodyTable tr:nth-child(2) td[name = ''Associations'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''Alerts''] table.bodyTable tr:nth-child(2) td[name = ''AlertName''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''available-report-cols''] table.bodyTable tr:nth-child(4) td[name=''label'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CLActivity''] .core-label>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''Clendor.CustNWNameHubDropdown''] span.linked-text>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CO''] table.bodyTable tr:nth-child(2) td[name = ''TotalNetAmount'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CONTRACTS''] tr.selected td.core_checkbox_field[name=''FeeIncludeInd'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CR''] table.bodyTable tr:nth-child(1) td[name = ''RemittanceSentDate'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''CR''] table.bodyTable tr:nth-child(1) td[name = ''Voided''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''DashboardDesignerListViewCtrl''] table.bodyTable tr:nth-child(27) td[name = ''DisplayOrder'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''DataSource''] table.bodyTable tr:nth-child(45) td[name = ''DataSourceName'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''EditStructurePageGrid''] table.bodyTable tr:nth-child(12) td[name=''LongName'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''EMPLOYEEBALANCE''] table.bodyTable tr:nth-child(1) td[name = ''Unpaid'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''INTEGRATIONWSLOG''] table.bodyTable tr:nth-child(16) td[name = ''ProcessStatus'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''JSONDataSourceColumns''] table.bodyTable tr:nth-child(38) td[name = ''Calculated''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''JSONDataSourceColumns''] table.bodyTable tr:nth-child(38) td[name = ''DataSourceColumnName'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''RefreshPaidStatusTable.EXButton''] button>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(2) td[name = ''format''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(3) td[name = ''format''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(5) td[name = ''format''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(6) td[name = ''format''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(8) td[name = ''buildType'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReportColumns''] table.bodyTable tr:nth-child(9) td[name = ''format''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''reportGrid''] table.bodyTable tr:nth-child(36) td[name = ''EACHrs'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=ReviewDrilldownDialogGrid] table.bodyTable tr:nth-child(1) td[name = ''Document''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''ReviewDrilldownDialogGrid''] table.bodyTable tr:nth-child(1) td[name = ''Document''] span.cellLink>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''RO''] table.bodyTable tr:nth-child(2) td[name = ''TotalNetAmount'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''RoleSecurity''] table.bodyTable tr:nth-child(24) td[name = ''Role'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[data-id=''select-users-grid''] table.bodyTable tr:nth-child(50) td[name = ''Username'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <div[title=''Expand'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_35_New_AddExpenseReportOtherActionsCmbbox]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_ApplicationTitleLbl]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_ApproveRejectCmbbox]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_CancelBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@addEditView_mainScreen_SaveBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_creditCardChargesTab_ClosePanelBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_financialTab_FinancialOptionsBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_AgendaDayBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_CancelBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_CheckOutBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_DashpartLibraryBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_editBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_FilterMenu]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_FilterMenuCmbbox]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_NewEmployeeLnk]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_NewPaymentRunLnk]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_NewRateTableLnk]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@detailsView_mainScreen_SwitchToListViewBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_calculatedFields_CancelBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_invoiceAccept_AcceptBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_newSearch_SaveBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <Element [name=@dialog_reschedulePlanDates_DialogTitleLbl]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <input#ElectronicSignature-Y>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <span.ui-dialog-title>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <span[action-bar-data=''columnFilter'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <.app-list .nav-selected-app>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id = ''ListPageGrid'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''Activity.TimeRecurrence_StartDate'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <div[data-id=''ProjectListPageGrid''] *.grid-spinner .spinner>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getAttribute() command on <span[action-bar-data=''actionsMenu''].action-popup.navigator_popupmenu>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getText() command on <body.cke_editable>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getText() command on <div[data-id=''EM.Employee''] span.text-field>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .getText() command on <span.index-all.index-num>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .isVisible() command on <div.ngcrm-tabs a[data-tab-id=''labor'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .isVisible() command on <Element [name=@addEditView_mainScreen_SaveBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .isVisible() command on <Element [name=@addEditView_mainScreen_SwitchToListViewBtn]>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .isVisible() command on <span.icon-listview>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <.banner-company-name.icons.icon-deltek>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div.navigator_simple_advance_search span.navigator_popupmenu[action-bar-data=''otherActions'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[class*=''page-container''][style*=''block''] div.app-nav-single-select div.dropdown-field-container>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[class*=''page-container''][style*=''block''] div.section-search div.custom-search-popup-menu div.search-filter.navigator_popupmenu span[class*=''arrow'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[class*=''page-container''][style*=''block''] div.section-search.core_dropdown_field td.nav-ddwn-td div.nav-ddwn-ctrl>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[class*=''status-message success'']:not([style*=''display: none;''])>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''BillThruPeriod_Year'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''BT.UnitMeth'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''BTEA.FilterPrincipal'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''EX''] table.rowToolsTable tr:nth-child(1) td div>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''FieldList''] table.bodyTable tr:nth-child(18) td[name = ''AvailableForCubes'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''leftSide_LongName'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''PR.BillingCurrencyCode'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''PRLABOR'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''ReportOptions.baseRecordSelection'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <div[data-id=''rightSide_PursuitNumber'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <span#bannerHelpMenu>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <span.navigator_popupmenu[action-bar-data=''actionsMenu''] span[class*=''arrow'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <span.nav-index>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <td.nav-ddwn-td div.dropdown-field-container>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .moveToElement() command on <td[class=''nav-ddwn-td''] div[class*=''dropdown-field-container'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <body.cke_editable>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''CFGCURRENCYEXCHANGE''] table.hdrTable tr.filterRow div[data-id = ''FromCode_filter'' i] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''CFGDiaryAutoNum''] table.bodyTable tr:nth-child(9) td[name = ''Diary''] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''EditStructurePageGrid''] table.bodyTable tr:nth-child(2) td[name = ''WBSNumber''] div.treeValue input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''EditStructurePageGrid''] table.bodyTable tr:nth-child(6) td[name = ''LongName''] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''EditStructurePageGrid''] table.bodyTable tr:nth-child(8) td[name = ''LongName''] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <div[data-id=''PR.Org''] input>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .setValue() command on <input[placeholder=''Find Application'']>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "attr.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=''ext-chargescontainer''] div[id*=''ext-chargeslist'']> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=ext-contactActivityList] div[class*= x-crmcardlist-inner]> : <true> in 1000 ms. - expected \"true\" but got: \"false\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "AvailableInList - Testing the availability of item/s in list <div[id*=''projectActivityAssoc''] div[class*=''crmcardlist'']> : <false> in 1000 ms. - expected \"false\" but got: \"true\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Cannot read property ''__selector'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "classValue.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Column Headers are Correct in 1000 ms. - expected \"~Column Name~~Filters~Grouped Columns~Calculated Fields~Date Ranges~Properties~Hide Column~\" but got: \"~Column Name~~Filters~Grouped Columns~Calculated Fields~Date Ranges~Properties~Drill To~Hide Column~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Correct Row Data in 1000 ms. - expected \"11/20/2021 07:00 pm Meeting~Project Activity Added~Amruta Kamble~~\" but got: \"11/20/2021 07:00 pm Meeting~Project Activity Added~Amruta Kamble~1960 Physicians Associates~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Created Project''s Stage verified! in 1000 ms. - expected \"Qualified Opportunity (obtain Z number)\" but got: \"Stage Project Lead Capacity Calculation Excluded from Scheduled and Utilization Win/Loss Details Opened 6/21/2022 Days Open 0\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Custom search successfully created. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "deleteRow is not defined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Dialog title is present in 1000 ms. - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Done loading page after logging in - expected \"not found\" but got: \"found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "elem.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Element \"detailsView_mainScreen_EditBtn\" was not found in \"roles\". Available elements: detailsView_accessRightsTab_FunctionalAreaCmbbox, detailsView_accessRightsTab_FullAccessToAllApplicationTabChkbox, detailsView_accessRightsTab_TabsForThisRoleGrd, detailsView_accessRightsTab_CompaniesGrd, detailsView_accessRightsTab_FullAccessToAllCompaniesChkbox, detailsView_accessRightsTab_UsersGrd, detailsView_accessRightsTab_AssignUsersLnk, detailsView_accessRightsTab_UserMaximizeBtn, detailsView_accessRightsTab_UserExportBtn, detailsView_accessRightsTab_UserFilterBtn, detailsView_accessRightsTab_FullAccessToAllDataExportDefinitionsChkbox, detailsView_accessRightsTab_DataExportDefinitionsForThisRoleGrd, detailsView_accessRightsTab_DataExportDefinitionsMaximizeBtn, detailsView_accessRightsTab_DataExportDefinitionsExportBtn, detailsView_accessRightsTab_DataExportDefinitionsFilterBtn, detailsView_accessRightsTab_DataExportAdministratorChkbox, detailsView_accessRightsTab_FullAccessToAllDataPacksChkbox, detailsView_accessRightsTab_DataPacksForThisRoleGrd, detailsView_accessRightsTab_DataPacksMaximizeBtn, detailsView_accessRightsTab_DataPacksExportBtn, detailsView_accessRightsTab_DataPacksFilterBtn, detailsView_accessRightsTab_ReportsFullAccessToAllReportsChkbox, detailsView_accessRightsTab_ReportGrd, detailsView_accessRightsTab_AssignReportsLnk, detailsView_accessRightsTab_ReportsFilterBtn, detailsView_accessRightsTab_ReportsFilterFolderCmbbox, detailsView_accessRightsTab_ReportsFilterAllColumnsCmbbox, detailsView_accessRightsTab_ReportsFilterAllGroupsCmbbox, detailsView_accessRightsTab_ReportsFilterNameTxtbox, detailsView_accessRightsTab_ReportsFilterSetupAccessTxtbox, detailsView_accessRightsTab_ReportsFilterSetColumnAccessTxtbox, detailsView_accessRightsTab_ReportsFilterTypeTxtbox, name, detailsView_accountingTab_TransactionTypesGrd, detailsView_accountingTab_TansactionTypeFilterBtn, detailsView_accountingTab_FullAccessToAllTransationTypeChkbox, detailsView_accountingTab_AlowHoldChkbox, detailsView_accountingTab_AllowModifyChkbox, detailsView_accountingTab_AllowFinalProcesingChkbox, detailsView_accountingTab_AllowInsertChkbox, detailsView_accountingTab_AllowDeleteChkbox, detailsView_accountingTab_AllowInvoiceFileTobeDeltedChkbox, detailsView_accountingTab_AllowWriteOffChkbox, detailsView_accountingTab_AllowTransferChkbox, detailsView_accountingTab_AllowEditUploadChkbox, detailsView_accountingTab_AllowFinalProcessingChkbox, detailsView_accountingTab_AllowProcessingInClosedPeriodsChkbox, detailsView_accountingTab_AllowProcessingInPriorPeriodsChkBox, detailsView_accountingTab_IncludeCostAmountsInSpentAndProfictCalculationsChkBox, detailsView_accountingTab_IncludeBurdenAmountInSpentAndProfictCalculationChkBox, detailsView_accountingTab_AllowModificationInConsultantPartnerReviewChkBox, detailsView_accountingTab_LaborCostRatesAmountsQedit, detailsView_accountingTab_LaborBurdenRatesAmountQedit, detailsView_accountingTab_AccountsReceivableCommentReviewAccessQedit, detailsView_accountingTab_AccountsReceivableCommentUpdateAccessQedit, detailsView_accountingTab_ProjectBudgetWorksheetQedit, detailsView_accountingTab_IncludePaycheckOnRegisterandBankReconcilationChkBox, detailsView_accountingTab_AllowPayrollProcesingInPriorW2QuarterChkBox, detailsView_accountingTab_TransactionTypeFilterCmbbox, detailsView_accountingTab_EnterFilterCmbbox, detailsView_accountingTab_ReportFilterCmbbox, detailsView_accountingTab_PostFilterCmbbox, detailsView_accountingTab_AllowCashReceiptsForOtherCompaniesChkbox, detailsView_accountingTab_AllowReprocessingOfIntercompanyBillingFilesChkbox, detailsView_mainScreen_FindRolesCmbbox, detailsView_mainScreen_RoleNameLbl, detailsView_mainScreen_OtherActionsCmbbox, detailsView_mainScreen_SwitchToListViewBtn, detailsView_mainScreen_SwitchToDetailsViewBtn, detailsView_mainScreen_NewRoleLnk, detailsView_mainScreen_TabHeader, detailsView_mainScreen_CancelBtn, detailsView_mainScreen_SaveBtn, detailsView_overviewTab_ApplicationSlctList, de",
+        "failure_type": "010"
+    },
+    {
+        "error": "Element \"detailsView_mainScreen_EditBtn\" was not found in \"roles\". Available elements: detailsView_accessRightsTab_FunctionalAreaCmbbox, detailsView_accessRightsTab_FullAccessToAllApplicationTabChkbox, detailsView_accessRightsTab_TabsForThisRoleGrd, detailsView_accessRightsTab_CompaniesGrd, detailsView_accessRightsTab_FullAccessToAllCompaniesChkbox, detailsView_accessRightsTab_UsersGrd, detailsView_accessRightsTab_AssignUsersLnk, detailsView_accessRightsTab_UserMaximizeBtn, detailsView_accessRightsTab_UserExportBtn, detailsView_accessRightsTab_UserFilterBtn, detailsView_accessRightsTab_FullAccessToAllDataExportDefinitionsChkbox, detailsView_accessRightsTab_DataExportDefinitionsForThisRoleGrd, detailsView_accessRightsTab_DataExportDefinitionsMaximizeBtn, detailsView_accessRightsTab_DataExportDefinitionsExportBtn, detailsView_accessRightsTab_DataExportDefinitionsFilterBtn, detailsView_accessRightsTab_DataExportAdministratorChkbox, detailsView_accessRightsTab_FullAccessToAllDataPacksChkbox, detailsView_accessRightsTab_DataPacksForThisRoleGrd, detailsView_accessRightsTab_DataPacksMaximizeBtn, detailsView_accessRightsTab_DataPacksExportBtn, detailsView_accessRightsTab_DataPacksFilterBtn, detailsView_accessRightsTab_ReportsFullAccessToAllReportsChkbox, detailsView_accessRightsTab_ReportGrd, detailsView_accessRightsTab_AssignReportsLnk, detailsView_accessRightsTab_ReportsFilterBtn, detailsView_accessRightsTab_ReportsFilterFolderCmbbox, detailsView_accessRightsTab_ReportsFilterAllColumnsCmbbox, detailsView_accessRightsTab_ReportsFilterAllGroupsCmbbox, detailsView_accessRightsTab_ReportsFilterNameTxtbox, detailsView_accessRightsTab_ReportsFilterSetupAccessTxtbox, detailsView_accessRightsTab_ReportsFilterSetColumnAccessTxtbox, detailsView_accessRightsTab_ReportsFilterTypeTxtbox, name, detailsView_accountingTab_TransactionTypesGrd, detailsView_accountingTab_TansactionTypeFilterBtn, detailsView_accountingTab_FullAccessToAllTransationTypeChkbox, detailsView_accountingTab_AlowHoldChkbox, detailsView_accountingTab_AllowModifyChkbox, detailsView_accountingTab_AllowFinalProcesingChkbox, detailsView_accountingTab_AllowInsertChkbox, detailsView_accountingTab_AllowDeleteChkbox, detailsView_accountingTab_AllowInvoiceFileTobeDeltedChkbox, detailsView_accountingTab_AllowWriteOffChkbox, detailsView_accountingTab_AllowTransferChkbox, detailsView_accountingTab_AllowEditUploadChkbox, detailsView_accountingTab_AllowFinalProcessingChkbox, detailsView_accountingTab_AllowProcessingInClosedPeriodsChkbox, detailsView_accountingTab_AllowProcessingInPriorPeriodsChkBox, detailsView_accountingTab_IncludeCostAmountsInSpentAndProfictCalculationsChkBox, detailsView_accountingTab_IncludeBurdenAmountInSpentAndProfictCalculationChkBox, detailsView_accountingTab_AllowModificationInConsultantPartnerReviewChkBox, detailsView_accountingTab_LaborCostRatesAmountsQedit, detailsView_accountingTab_LaborBurdenRatesAmountQedit, detailsView_accountingTab_AccountsReceivableCommentReviewAccessQedit, detailsView_accountingTab_AccountsReceivableCommentUpdateAccessQedit, detailsView_accountingTab_ProjectBudgetWorksheetQedit, detailsView_accountingTab_IncludePaycheckOnRegisterandBankReconcilationChkBox, detailsView_accountingTab_AllowPayrollProcesingInPriorW2QuarterChkBox, detailsView_accountingTab_TransactionTypeFilterCmbbox, detailsView_accountingTab_EnterFilterCmbbox, detailsView_accountingTab_ReportFilterCmbbox, detailsView_accountingTab_PostFilterCmbbox, detailsView_accountingTab_AllowCashReceiptsForOtherCompaniesChkbox, detailsView_accountingTab_AllowReprocessingOfIntercompanyBillingFilesChkbox, detailsView_mainScreen_FindRolesCmbbox, detailsView_mainScreen_RoleNameLbl, detailsView_mainScreen_OtherActionsCmbbox, detailsView_mainScreen_SwitchToListViewBtn, detailsView_mainScreen_SwitchToDetailsViewBtn, detailsView_mainScreen_FilterMenu, detailsView_mainScreen_NewRoleLnk, detailsView_mainScreen_TabHeader, detailsView_mainScreen_CancelBtn, detailsView_mainScreen_SaveBtn, detailsView_",
+        "failure_type": "010"
+    },
+    {
+        "error": "Email template successfully created. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"CellValue\" command: Assertion class must implement method/property expected",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"containsText\" command: Testing if element <.ui-dialog-title> contains text: \"undefined\" in 1000 ms.",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"containsText\" command: Testing if element <div.tpd-tooltip:not([style *= ''none'' ]) div.tpd-content> contains text: \"undefined\" in 1000 ms.",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: approvalCenterPage.GetCellValue is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Cannot read property ''ELEMENT'' of null",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: client.window_handles is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Project Detail Base Group 3.4383 not found",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Dashboard Project Detail Base Group 3.6939 not found",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Element \"addEditView_overviewTab_HomeEmailTxtbox\" was not found in \"employees\". Available elements: addEditView_accountingTab_ApprovedForUseInProcessingChkbox, addEditView_accountingTab_LaborPostingCmbbox, addEditView_accountingTab_CostTypeCmbbox, addEditView_accountingTab_JCCostRateTxtbox, addEditView_accountingTab_JCCostOvertimePercentTxtbox, addEditView_accountingTab_JCCostOvertimePercent2Txtbox, addEditView_accountingTab_JCCostRateTableMethodCmbbox, addEditView_accountingTab_AbsenceAccrualsGrd, addEditView_accountingTab_PaymentMethodCmbbox, addEditView_accountingTab_EmailPayrollRemittanceChkbox, addEditView_accountingTab_EmailExpenseRemittanceChkbox, addEditView_accountingTab_DirectDepositGrd, addEditView_accountingTab_ADPFileNumberTxtbox, addEditView_accountingTab_ADPCompanyCodeTxtbox, addEditView_accountingTab_ADPRateCodeTxtbox, addEditView_accountingTab_PRCostRateTxtbox, addEditView_accountingTab_PRCostOvertimePercentTxtbox, addEditView_accountingTab_PRCostOvertimePercent2Txtbox, addEditView_accountingTab_PRBillingRateTxtbox, addEditView_accountingTab_PRBillingOvertimePercentTxtbox, addEditView_accountingTab_PRBillingOvertimePercentTxtbox2, name, addEditView_activitiesTab_ActivitiesGrd, addEditView_assetsTab_AssignedAssetsGrd, addEditView_employmentDetailsTab_LaborCategoryCmbbox, addEditView_employmentDetailsTab_HoursDayTxtbox, addEditView_employmentDetailsTab_UtilTargetTxtbox, addEditView_employmentDetailsTab_TargetRatioTxtbox, addEditView_employmentDetailsTab_UseTotalHoursAsStandardChkbox, addEditView_employmentDetailsTab_HireDateCmbbox, addEditView_employmentDetailsTab_RaiseDateCmbbox, addEditView_employmentDetailsTab_TerminationDateCmbbox, addEditView_experienceTab_ProjectGrd, addEditView_firmsAndContactsTab_FirmsFilterBtn, addEditView_firmsAndContactsTab_FirmsExportBtn, addEditView_firmsAndContactsTab_FirmsMaximizeBtn, addEditView_firmsAndContactsTab_FirmsGrd, addEditView_firmsAndContactsTab_AddFirmLnk, addEditView_firmsAndContactsTab_ContactsFilterBtn, addEditView_firmsAndContactsTab_ContactsExportBtn, addEditView_firmsAndContactsTab_ContactsMaximizeBtn, addEditView_firmsAndContactsTab_ContactsGrd, addEditView_firmsAndContactsTab_AddContactLnk, addEditView_filesAndLinksTab_FilesGrd, addEditView_filesAndLinksTab_LinksGrd, addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_TabHeader, addEditView_overviewTab_FirstNameTxtbox, addEditView_overviewTab_MiddleNameTxtbox, addEditView_overviewTab_LastNameTxtbox, addEditView_overviewTab_FirmChkbox, addEditView_overviewTab_PreferredNameTxtbox, addEditView_overviewTab_SalutationCmbbox, addEditView_overviewTab_SuffixCmbbox, addEditView_overviewTab_ProfessionalSuffixTxtBox, addEditView_overviewTab_EmailTxtbox, addEditView_overviewTab_LanguageCmbbox, addEditView_overviewTab_PreviousYearsWithThisFirmTxtbox, addEditView_overviewTab_TotalYearsWithThisFirmTxtbox, addEditView_overviewTab_YearsWithOtherFirmsTxtbox, addEditView_overviewTab_TotalYearsExperience, addEditView_overviewTab_ATCRMUsersChkbox, addEditView_overviewTab_ATAccountingUsersChkbox, addEditView_overviewTab_ATAccountingUsersTooltipBtn, addEditView_overviewTab_LanguageTooltipBtn, addEditView_overviewTab_udAccountingTxtbox, addEditView_payrollTab_PayTypeCmbbox, addEditView_payrollTab_PayRateTxtbox, addEditView_payrollTab_PayOvertimePercentTxtbox, addEditView_payrollTab_PayOvertimePercent2Txtbox, addEditView_payrollTab_PayRateTableMethodCmbbox, addEditView_payrollTab_StatutoryEmployeeChkbox, addEditView_payrollTab_RetirementPlanChkbox, addEditView_payrollTab_ThirdPartySickPay, addEditView_payrollTab_OtherPayTxtbox, addEditView_payrollTab_LocaleMethodQEdit, addEditView_payrollTab_DefaultTaxLocaleQEdit, addEditView_payrollTab_StandardOccuClassCodeCmbbox, addEditView_payrollTab_AlaskaGeographicCodeCmbbox, addEditView_payrollTab_WithholdingGrd, addEditView_payrollTab_AddWithholdingLnk, addEditView_payrollTab_EmployeeContributionGrd, addEditView_payrol",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Element \"detailsView_mainScreen_TableNumberValueLbl\" was not found in \"CostPayLaborRates\". Available elements: addEditView_mainScreen_ListViewBtn, addEditView_mainScreen_TableNameTxtbox, addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_PageErrorLbl, addEditView_mainScreen_TableNumberTxtbox, addEditView_mainScreen_RateTypeCmbbox, addEditView_mainScreen_CurrencyCmbbox, addEditView_mainScreen_EmployeesGrd, addEditView_mainScreen_AddEmployeesLnk, addEditView_mainScreen_EmployeesMaximizeBtn, addEditView_mainScreen_EmployeesExportBtn, addEditView_mainScreen_EmployeesFilterBtn, name, detailsView_mainScreen_PageTitleLbl, detailsView_mainScreen_IntroHeaderLbl, detailsView_mainScreen_IntroBodyLbl, detailsView_mainScreen_FilterMenu, detailsView_mainScreen_FindRateTableCmbbox, detailsView_mainScreen_RecordArrowLeftBtn, detailsView_mainScreen_IndexLbl, detailsView_mainScreen_RecordArrowRightBtn, detailsView_mainScreen_NewRateTableLnk, detailsView_mainScreen_ListViewBtn, detailsView_mainScreen_TableNameQEdit, detailsView_mainScreen_EditBtn, detailsView_mainScreen_ActionMenu, detailsView_mainScreen_TableNumberQEdit, detailsView_mainScreen_RateTypeQEdit, detailsView_mainScreen_CurrencyQEdit, detailsView_mainScreen_EmployeesGrd, detailsView_mainScreen_EmployeesMaximizeBtn, detailsView_mainScreen_EmployeesExportBtn, detailsView_mainScreen_EmployeesFilterBtn, detailsView_mainScreen_AddCostPayLaborRateLnk, listView_mainScreen_PageTitleLbl, listView_mainScreen_FilterMenu, listView_mainScreen_FindRateTableCmbbox, listView_mainScreen_RecordCountLbl, listView_mainScreen_NewRateTableLnk, listView_mainScreen_DetailViewBtn, listView_mainScreen_ActionMenu, listView_mainScreen_RateTableGrd, listView_mainScreen_GridMaximizeBtn, listView_mainScreen_GridSettingsBtn, listView_mainScreen_GridExportBtn, listView_mainScreen_GridFilterBtn, dialog_employeeLookup_EmployeeGrd, dialog_employeeLookup_SearchTxtbox, dialog_employeeLookup_SelectBtn, dialog_employeeLookup_CancelBtn, dialog_effectiveDate_DialogTitleLbl, dialog_effectiveDate_effectiveDateTxtbox, dialog_effectiveDate_SaveBtn, dialog_effectiveDate_CancelBtn",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: Element \"listView_mainScreen_GridGearBtn\" was not found in \"customProposals\". Available elements: addEditView_mainScreen_BackBtn, addEditView_mainScreen_ProposalNameLbl, addEditView_mainScreen_SaveLnk, addEditView_mainScreen_OtherActionsCmbbox, addEditView_mainScreen_ProposalPropertiesLnk, addEditView_mainScreen_ZoomCmbbox, addEditView_mainScreen_ShowGridLinesToggleBtn, addEditView_mainScreen_ShowRecordHeaderToggleBtn, addEditView_mainScreen_ProposalDesignerPage, addEditView_mainScreen_ProposalDesignerPage_2, addEditView_mainScreen_AddPageLnk, addEditView_mainScreen_GeneralElementsBtn, addEditView_mainScreen_TextPalette, addEditView_mainScreen_TextFieldPalette, addEditView_mainScreen_TextFieldEditBtn, addEditView_mainScreen_TextFieldRemoveBtn, addEditView_mainScreen_ImageField, addEditView_mainScreen_ImageFldEditBtn, addEditView_mainScreen_ImageLayoutDraft, addEditView_mainScreen_ImageLayoutDraftEditBtn, addEditView_mainScreen_ImagePalette, addEditView_mainScreen_ImageFieldPalette, addEditView_mainScreen_ImageFieldRemoveBtn, addEditView_mainScreen_HorizontalLinePalette, addEditView_mainScreen_HLineFieldPalette, addEditView_mainScreen_HLineFieldRemoveBtn, addEditView_mainScreen_VerticalLinePalette, addEditView_mainScreen_VLineFieldPalette, addEditView_mainScreen_VLineFieldRemoveBtn, addEditView_mainScreen_SectionBreakPalette, addEditView_mainScreen_SBreakFieldPalette, addEditView_mainScreen_SBreakFieldRemoveBtn, addEditView_mainScreen_DeltekElementsBtn, addEditView_mainScreen_MasterElementPalette, addEditView_mainScreen_RecordPalette, addEditView_mainScreen_EstimateTablePalette, addEditView_mainScreen_EstimateTableRemoveBtn, addEditView_mainScreen_ClipboardElementsBtn, addEditView_mainScreen_ClipboardElementsLbl, addEditView_mainScreen_SectionsAndPagesBtn, addEditView_mainScreen_PropertiesBtn, addEditView_mainScreen_EditingLayoutLbl, addEditView_mainScreen_AdjustRBtnGrp, addEditView_mainScreen_SaveRecordLayoutAsDraftBtn, addEditView_mainScreen_MergeAndFinalizeRecordsBtn, addEditView_mainScreen_CancelAndRevertChangesBtn, addEditView_mainScreen_ManageRecordsLnk, addEditView_mainScreen_RecordLbl, addEditView_mainScreen_EmployeeLayoutDraftEditBtn, addEditView_mainScreen_EmployeeLayoutEditorPalette, addEditView_mainScreen_EmployeeResumeTextPalette, addEditView_mainScreen_EmployeeResumeFieldPalette, addEditView_mainScreen_EmployeeResumeEditBtn, addEditView_mainScreen_EmployeeImageLayoutDraft, addEditView_mainScreen_BoilerplateLayoutDraft, addEditView_mainScreen_BoilerplateLayoutDraftEditBtn, addEditView_mainScreen_BoilerplateLayoutEditor, addEditView_mainScreen_BoilerplateTextField, addEditView_mainScreen_BoilerplateTextFieldEditBtn, addEditView_mainScreen_BoilerplateLayoutEditorPalette, addEditView_mainScreen_BoilerplateTextFieldPalette, addEditView_mainScreen_ProjectLayoutDraft, addEditView_mainScreen_ProjectLayoutDraftEditBtn, addEditView_mainScreen_ProjectLayoutEditor, addEditView_mainScreen_ProjectDescriptionImg, addEditView_mainScreen_ProjectDescriptionField, addEditView_mainScreen_ProjectImageLayoutDraft, addEditView_mainScreen_ProjectLayoutDraftPalette, addEditView_mainScreen_ProjectDescriptionPalette, addEditView_mainScreen_ProjectDescriptionFieldPalette, addEditView_mainScreen_ProjectDescFieldEditBtn, addEditView_mainScreen_HeaderLayoutPage1, addEditView_mainScreen_HeaderLayoutPage2, addEditView_mainScreen_FooterLayoutPage1, addEditView_mainScreen_FooterLayoutPage2, name, addEditView_DocumentPropertiesBtn, addEditView_PagePropertiesBtn, addEditView_DocumentProperties_PaperSizeLbl, addEditView_DocumentProperties_PaperSizeCmbbox, addEditView_DocumentProperties_WidthLbl, addEditView_DocumentProperties_WidthTxtbox, addEditView_DocumentProperties_HeightLbl, addEditView_DocumentProperties_HeightTxtbox, addEditView_DocumentProperties_PageOrientationLbl, addEditView_DocumentProperties_PageOrientationPortraitBtn, addEditView_DocumentProperties_PageOrientationLandscapeBtn, addEditView_DocumentPr",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: this.waitForElementVisible is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"element\" command: value.split is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: \"Error: First argument passed to .elementIdAttribute() should be a web element ID string. Received undefined.     at processTicksAndRejections (internal/process/task_queues.js:97:5)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: \"Error: First argument passed to .elementIdAttribute() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: Cannot read property ''replace'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: clsAttr.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdAttribute\" command: getClss.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdClick\" command: \"Error: First argument passed to .elementIdClick() should be a web element ID string. Received undefined.     at processTicksAndRejections (internal/process/task_queues.js:97:5)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdClick\" command: \"Error: First argument passed to .elementIdClick() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdClick\" command: \"Error: First argument passed to .elementIdClick() should be a web element ID string. Received undefined. \"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdCssProperty\" command: \"Error: First argument passed to .elementIdCssProperty() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdDisplayed\" command: \"Error: First argument passed to .elementIdDisplayed() should be a web element ID string. Received undefined.     at processTicksAndRejections (internal/process/task_queues.js:97:5)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdDisplayed\" command: \"Error: First argument passed to .elementIdDisplayed() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdText\" command: text.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdText\" command: value.trim is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elementIdValue\" command: \"Error: First argument passed to .elementIdValue() should be a web element ID string. Received undefined.     at runMicrotasks (<anonymous>)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elements\" command: Cannot read property ''ELEMENT'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"elements\" command: value.forEach is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"execute\" command: Cannot read property ''app'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: accPayablePage.GetCellValue is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: adjustSalariedJobCostPage.GetCellValue is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: billingLaborOverrides.waitForElementVisible is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot access ''employeeName'' before initialization",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot destructure property ''input'' of ''self.cell'' as it is undefined.",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot destructure property ''variant'' of ''self.cell'' as it is undefined.",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''__selector'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''2'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''firmHierarchy'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''overview'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''replace'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''split'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''type'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot read property ''variant'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Cannot set property ''name'' of undefined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: disabledFilterBtn is not defined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"addEditView_mainScreen_Cancelbtn\" was not found in \"billingGroups\". Available elements: addEditView_mainScreen_BillingGroupsPageLbl, addEditView_mainScreen_SearchFilterCmbbox, addEditView_mainScreen_FindBillingGroupsCmbbox, addEditView_mainScreen_NewBillingGroupLnk, addEditView_mainScreen_SwitchToListViewBtn, addEditView_mainScreen_BillingGroupsProjectLabel, addEditView_mainScreen_EditBtn, addEditView_mainScreen_ActionsMenuCmbbox, addEditView_mainScreen_MainProjectCmbbox, addEditView_mainScreen_ConsolidatePrintingRBtnGrp, addEditView_mainScreen_SeparateTermsRBtnGrp, addEditView_mainScreen_OverallLimitForGroupRBtnGrp, addEditView_mainScreen_ConsolidateAllPostingRBtnGrp, addEditView_mainScreen_ConsolidateTaxPostingRBtnGrp, addEditView_mainScreen_PrintARbyRBtnGrp, addEditView_mainScreen_PrintBilledToDateByRBtnGrp, addEditView_mainScreen_PrintInterestByRBtnGrp, addEditView_mainScreen_PrintTaxByRBtnGrp, addEditView_mainScreen_PrintRetainageByRBtnGrp, addEditView_mainScreen_PrintRetainersByRBtnGrp, addEditView_mainScreen_ProjectsIncludedInBillingGroupGrd, addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_AddSubProjectLnk, name, detailsView_mainScreen_BillingGroupsPageLbl, detailsView_mainScreen_BillingGroupNumberLnk, detailsView_mainScreen_SearchFilterCmbbox, detailsView_mainScreen_FindBillingGroupsCmbbox, detailsView_mainScreen_NewBillingGroupLnk, detailsView_mainScreen_SwitchToListViewBtn, detailsView_mainScreen_BillingGroupsProjectLbl, detailsView_mainScreen_EditBtn, detailsView_mainScreen_OtherActionsMenuCmbbox, detailsView_mainScreen_ConsolidatePrintingRBtnGrp, detailsView_mainScreen_SeparateTermsRBtnGrp, detailsView_mainScreen_OverallLimitForGroupRBtnGrp, detailsView_mainScreen_ConsolidateAllPostingRBtnGrp, detailsView_mainScreen_ConsolidateTaxPostingRBtnGrp, detailsView_mainScreen_PrintARbyRBtnGrp, detailsView_mainScreen_PrintBilledToDateByRBtnGrp, detailsView_mainScreen_PrintInterestByRBtnGrp, detailsView_mainScreen_PrintTaxByRBtnGrp, detailsView_mainScreen_PrintRetainageByRBtnGrp, detailsView_mainScreen_PrintRetainersByRBtnGrp, detailsView_mainScreen_ProjectsIncludedInBillingGroupGrd, detailsView_mainscreen_SaveBtn, detailsView_mainscreen_CancelBtn, listView_mainScreen_BillingGroupsPageLbl, listView_mainScreen_SearchFilterCmbbox, listView_mainScreen_FindBillingGroupsCmbbox, listView_mainScreen_NewBillingGroupLnk, listView_mainScreen_SwitchToDetailsViewBtn, listView_mainScreen_OtherActionsMenuCmbbox, listView_mainScreen_ListViewGrd",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"addEditView_mainScreen_Savebtn\" was not found in \"billingGroups\". Available elements: addEditView_mainScreen_BillingGroupsPageLbl, addEditView_mainScreen_SearchFilterCmbbox, addEditView_mainScreen_FindBillingGroupsCmbbox, addEditView_mainScreen_NewBillingGroupLnk, addEditView_mainScreen_SwitchToListViewBtn, addEditView_mainScreen_BillingGroupsProjectLabel, addEditView_mainScreen_EditBtn, addEditView_mainScreen_ActionsMenuCmbbox, addEditView_mainScreen_MainProjectCmbbox, addEditView_mainScreen_ConsolidatePrintingRBtnGrp, addEditView_mainScreen_SeparateTermsRBtnGrp, addEditView_mainScreen_OverallLimitForGroupRBtnGrp, addEditView_mainScreen_ConsolidateAllPostingRBtnGrp, addEditView_mainScreen_ConsolidateTaxPostingRBtnGrp, addEditView_mainScreen_PrintARbyRBtnGrp, addEditView_mainScreen_PrintBilledToDateByRBtnGrp, addEditView_mainScreen_PrintInterestByRBtnGrp, addEditView_mainScreen_PrintTaxByRBtnGrp, addEditView_mainScreen_PrintRetainageByRBtnGrp, addEditView_mainScreen_PrintRetainersByRBtnGrp, addEditView_mainScreen_ProjectsIncludedInBillingGroupGrd, addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_AddSubProjectLnk, name, detailsView_mainScreen_BillingGroupsPageLbl, detailsView_mainScreen_BillingGroupNumberLnk, detailsView_mainScreen_SearchFilterCmbbox, detailsView_mainScreen_FindBillingGroupsCmbbox, detailsView_mainScreen_NewBillingGroupLnk, detailsView_mainScreen_SwitchToListViewBtn, detailsView_mainScreen_BillingGroupsProjectLbl, detailsView_mainScreen_EditBtn, detailsView_mainScreen_OtherActionsMenuCmbbox, detailsView_mainScreen_ConsolidatePrintingRBtnGrp, detailsView_mainScreen_SeparateTermsRBtnGrp, detailsView_mainScreen_OverallLimitForGroupRBtnGrp, detailsView_mainScreen_ConsolidateAllPostingRBtnGrp, detailsView_mainScreen_ConsolidateTaxPostingRBtnGrp, detailsView_mainScreen_PrintARbyRBtnGrp, detailsView_mainScreen_PrintBilledToDateByRBtnGrp, detailsView_mainScreen_PrintInterestByRBtnGrp, detailsView_mainScreen_PrintTaxByRBtnGrp, detailsView_mainScreen_PrintRetainageByRBtnGrp, detailsView_mainScreen_PrintRetainersByRBtnGrp, detailsView_mainScreen_ProjectsIncludedInBillingGroupGrd, detailsView_mainscreen_SaveBtn, detailsView_mainscreen_CancelBtn, listView_mainScreen_BillingGroupsPageLbl, listView_mainScreen_SearchFilterCmbbox, listView_mainScreen_FindBillingGroupsCmbbox, listView_mainScreen_NewBillingGroupLnk, listView_mainScreen_SwitchToDetailsViewBtn, listView_mainScreen_OtherActionsMenuCmbbox, listView_mainScreen_ListViewGrd",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"addEditView_overviewTab_FirmsLnk\" was not found in \"activities\". Available elements: detailsView_mainScreen_CopyBtn, detailsView_mainScreen_ActionsMenu, detailsView_mainScreen_TabHeader, detailsView_mainScreen_FindActivityCmbbox, detailsView_mainScreen_ActivityNameQEdit, detailsView_mainScreen_NewActivityLnk, detailsView_mainScreen_SwitchToListViewBtn, detailsView_mainScreen_FilterMenu, detailsView_mainScreen_NextBtn, detailsView_mainScreen_PreviousBtn, detailsView_mainScreen_MarkCompleteChkbox, detailsView_mainScreen_PageTitleLbl, detailsView_mainScreen_SaveBtn, detailsView_mainScreen_CancelBtn, name, detailsView_overviewTab_WhenQEdit, detailsView_overviewTab_LocationQEdit, detailsView_overviewTab_TypeQEdit, detailsView_overviewTab_PriorityQEdit, detailsView_overviewTab_NotesQEdit, detailsView_overviewTab_StakeholdersLbl, detailsView_overviewTab_AttendeesLbl, detailsView_overviewTab_AttendeesGrd, detailsView_overviewTab_FirmsLbl, detailsView_overviewTab_FirmsGrd, detailsView_overviewTab_AssociationsLbl, detailsView_overviewTab_ProjectQEdit, detailsView_overviewTab_MarketingCampaignQEdit, detailsView_overviewTab_WidgetGrd, detailsView_overviewTab_StartDateTxtbox, detailsView_overviewTab_EndDateTxtbox, detailsView_overviewTab_ReminderCmbbox, detailsView_overviewTab_AllDayEventChkbox, detailsView_overviewTab_PrivateChkbox, detailsView_overviewTab_RepeatsCmbbox, detailsView_overviewTab_ShowTimeAsCmbbox, detailsView_overviewTab_RepeatRBtnGrp, detailsView_overviewTab_DaysTxtbox, detailsView_overviewTab_WeekRepeatTxtbox, detailsView_overviewTab_WeekRepeatDayMonChkbox, detailsView_overviewTab_WeekRepeatDayTueChkbox, detailsView_overviewTab_WeekRepeatDayWedChkbox, detailsView_overviewTab_WeekRepeatDayThuChkbox, detailsView_overviewTab_WeekRepeatDayFriChkbox, detailsView_overviewTab_WeekRepeatDaySatChkbox, detailsView_overviewTab_WeekRepeatDaySunChkbox, detailsView_overviewTab_MonthlyRepeatCmbbox, detailsView_overviewTab_MonthlyRepeatFreqCmbbox, detailsView_overviewTab_MonthlyRepeatOccurCmbbox, detailsView_overviewTab_MonthlyRepeatOccurDayCmbbox, detailsView_overviewTab_MonthlyRepeatOccurFreqCmbbox, detailsView_overviewTab_YearlyRecurrMonthCmbbox, detailsView_overviewTab_YearlyRecurrCmbbox, detailsView_overviewTab_YearlyRecurrOccurCmbbox, detailsView_overviewTab_YearlyRecurrOccurDayCmbbox, detailsView_overviewTab_YearlyRecurrOccurMonthCmbbox, detailsView_overviewTab_RecurringEndsCmbbox, detailsView_overviewTab_RecurringEndsDateCmbbox, detailsView_overviewTab_RecurringEndsCmbboxMaxOccurenceTxtbox, detailsView_linksTab_FilesGrd, detailsView_linksTab_LinksGrd, addEditView_mainScreen_ActivityNameCmbbox, addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_TabHeader, addEditView_mainScreen_MarkCompleteChkbox, addEditView_overviewTab_StartDateTxtbox, addEditView_overviewTab_EndDateTxtbox, addEditView_overviewTab_ReminderCmbbox, addEditView_overviewTab_AllDayEventChkbox, addEditView_overviewTab_PrivateChkbox, addEditView_overviewTab_RepeatsCmbbox, addEditView_overviewTab_ShowTimeAsCmbbox, addEditView_overviewTab_TypeCmbbox, addEditView_overviewTab_LocationTxtbox, addEditView_overviewTab_PriorityCmbbox, addEditView_overviewTab_NotesTxtArea, addEditView_overviewTab_AttendeesGrd, addEditView_overviewTab_FirmsGrd, addEditView_overviewTab_ProjectCmbbox, addEditView_overviewTab_MarketingCampaignCmbbox, addEditView_overviewTab_WidgetGrd, addEditView_overviewTab_RepeatRBtnGrp, addEditView_overviewTab_DaysTxtbox, addEditView_overviewTab_WeekRepeatTxtbox, addEditView_overviewTab_WeekRepeatDayMonChkbox, addEditView_overviewTab_WeekRepeatDayTueChkbox, addEditView_overviewTab_WeekRepeatDayWedChkbox, addEditView_overviewTab_WeekRepeatDayThuChkbox, addEditView_overviewTab_WeekRepeatDayFriChkbox, addEditView_overviewTab_WeekRepeatDaySatChkbox, addEditView_overviewTab_WeekRepeatDaySunChkbox, addEditView_overviewTab_MonthlyRepeatCmbbox, addEditView_overviewTab_MonthlyRepeatFreq",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"detailsView_estimatedFeeTab_AllocationMethodQEdit\" was not found in \"contractManagement\". Available elements: detailsView_mainScreen_PageTitleLbl, detailsView_mainScreen_SelectedProjectNameLbl, detailsView_mainScreen_SelectedProjectNumberLbl, detailsView_mainScreen_NewProjectLnk, detailsView_mainScreen_TabHeader, detailsView_mainScreen_ActionMenu, detailsView_mainScreen_FindProjectCmbbox, detailsView_mainScreen_FilterMenu, detailsView_mainScreen_ProjectStructureBtn, detailsView_mainScreen_BodyLbl, detailsView_mainScreen_SaveBtn, detailsView_mainScreen_CancelBtn, detailsView_contractsTab_CurrencyRBtnGrp, detailsView_contractsTab_ContractTableGrd, detailsView_contractsTab_ContractTableMaximizeBtn, detailsView_contractsTab_ContractTableGridSettingsBtn, detailsView_contractsTab_ContractTableExportBtn, detailsView_contractsTab_ContractTableFilterBtn, detailsView_contractsTab_ContractDetailsGrd, detailsView_contractsTab_ContractDetailsMaximizeBtn, detailsView_contractsTab_ContractDetailsGridSettingsBtn, detailsView_contractsTab_ContractDetailsExportBtn, detailsView_contractsTab_ContractDetailsFilterBtn, detailsView_contractsTab_ShowContractTotalsToggleBtn, name, detailsView_compensationTab_PercentCompleteCollapseIconBtn, detailsView_compensationTab_PercentCompleteLbl, detailsView_compensationTab_OverallPctCompQEdit, detailsView_compensationTab_ExpensePctCompQEdit, detailsView_compensationTab_LaborPctCompQEdit, detailsView_compensationTab_PrjCurrencyCollapseIconBtn, detailsView_compensationTab_PrjCurrencyLbl, detailsView_compensationTab_PCExchangeRateQEdit, detailsView_compensationTab_DirectCompensationCollapseIconBtn, detailsView_compensationTab_DirectCompensationLbl, detailsView_compensationTab_PCDirectLaborQEdit, detailsView_compensationTab_PCDirectExpensesQEdit, detailsView_compensationTab_PCCompensationLbl, detailsView_compensationTab_PCCompensationValLbl, detailsView_compensationTab_PCDirectConsultQEdit, detailsView_compensationTab_PCTotalDirectCompensationLbl, detailsView_compensationTab_PCTotalDirectCompensationValLbl, detailsView_compensationTab_ReimbursableCollapseIconBtn, detailsView_compensationTab_ReimbursableLbl, detailsView_compensationTab_PCReimbursableExpenseQEdit, detailsView_compensationTab_PCReimbursableConsultQEdit, detailsView_compensationTab_PCReimbursableAllowanceLbl, detailsView_compensationTab_PCReimbursableAllowanceValLbl, detailsView_compensationTab_TotalsCollapseIconBtn, detailsView_compensationTab_TotalsLbl, detailsView_compensationTab_PCTotalCompensationLbl, detailsView_compensationTab_PCTotalCompensationValLbl, detailsView_compensationTab_BillingCurrencyLbl, detailsView_compensationTab_BCExchangeRateQEdit, detailsView_compensationTab_BCDirectLaborQEdit, detailsView_compensationTab_BCDirectExpensesQEdit, detailsView_compensationTab_BCCompensationLbl, detailsView_compensationTab_BCCompensationValLbl, detailsView_compensationTab_BCDirectConsultQEdit, detailsView_compensationTab_BCTotalDirectCompensationLbl, detailsView_compensationTab_BCTotalDirectCompensationValLbl, detailsView_compensationTab_BCReimbursableExpenseQEdit, detailsView_compensationTab_BCReimbursableConsultQEdit, detailsView_compensationTab_BCReimbursableAllowanceLbl, detailsView_compensationTab_BCReimbursableAllowanceValLbl, detailsView_compensationTab_BCTotalCompensationLbl, detailsView_compensationTab_BCTotalCompensationValLbl, detailsView_compensationTab_FunctionalCurrencyLbl, detailsView_compensationTab_FCDirectLaborQEdit, detailsView_compensationTab_FCDirectExpensesQEdit, detailsView_compensationTab_FCCompensationLbl, detailsView_compensationTab_FCCompensationValLbl, detailsView_compensationTab_FCDirectConsultQEdit, detailsView_compensationTab_FCTotalDirectCompensationLbl, detailsView_compensationTab_FCTotalDirectCompensationValLbl, detailsView_compensationTab_FCReimbursableExpenseQEdit, detailsView_compensationTab_FCReimbursableConsultQEdit, detailsView_compensationTab_FCReimbursableAllo",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"detailsView_invoiceCreationTab_EmailInvoicestoBillingContactChkbox\" was not found in \"batchBilling\". Available elements: detailsView_invoiceCreationTab_InvoiceDateCmbbox, detailsView_invoiceCreationTab_PeriodStartCmbbox, detailsView_invoiceCreationTab_PeriodEndCmbbox, detailsView_invoiceCreationTab_SaveOptionsCmbbox, detailsView_invoiceCreationTab_CreateInvoicesBtn, detailsView_invoiceCreationTab_OtherActionsMenu, detailsView_invoiceCreationTab_RunTypeLbl, detailsView_invoiceCreationTab_InvoiceDistributionLbl, detailsView_invoiceCreationTab_RunDescriptionTxtbox, detailsView_invoiceCreationTab_RuntypeRBtnGrp, detailsView_invoiceCreationTab_PrintFromInvoiceArchiveChkbox, detailsView_invoiceCreationTab_EmailInvoicesSetupChkbox, detailsView_invoiceCreationTab_RetainInvoicesForUpToTxtbox, detailsView_invoiceCreationTab_IncludeWithInvoiceLbl, detailsView_invoiceCreationTab_SupportingDocumentsChkbox, detailsView_invoiceCreationTab_UnbilledDataReportChkbox, detailsView_invoiceCreationTab_BatchInvoiceListChkbox, detailsView_invoiceCreationTab_ProjectSelectionLbl, detailsView_invoiceCreationTab_ProjectSelectionCmbbox, detailsView_invoiceCreationTab_ProjectSelectionIncludesRBtnGrp, detailsView_invoiceCreationTab_OverrideBillingTermsForThisInvoiceCreationLbl, detailsView_invoiceCreationTab_OutstandingARCmbbox, detailsView_invoiceCreationTab_BilledToDateCmbbox, detailsView_invoiceCreationTab_BillingBackupCmbbox, detailsView_invoiceCreationTab_PrintInvoicesWithZeroAmountDueCmbbox, detailsView_invoiceCreationTab_InvoiceTemplateCmbbox, detailsView_invoiceCreationTab_UseDefaultTermsForDefaultDraftInvoicesChkbox, detailsView_invoiceCreationTab_SortOptionsLbl, detailsView_invoiceCreationTab_FirstCmbbox, detailsView_invoiceCreationTab_SecondCmbbox, detailsView_invoiceCreationTab_ThirdCmbbox, detailsView_invoiceCreationTab_ProjectCmbbox, name, detailsView_invoiceArchiveTab_InvoiceArchiveGrd, detailsView_mainScreen_PageTitleLbl, detailsView_mainScreen_TabHeader, detailsView_mainScreen_OtherActionsMenu, dialog_billingSessionOptions_PageTitleLbl, dialog_billingSessionOptions_InvoicePresentationDatesLbl, dialog_billingSessionOptions_TransactionDetailsLbl, dialog_billingSessionOptions_InvoiceDateCmbbox, dialog_billingSessionOptions_BillThroughDateCmbbox, dialog_billingSessionOptions_PeriodStartDateCmbbox, dialog_billingSessionOptions_PeriodEndDateCmbbox, dialog_billingSessionOptions_BillThroughPeriodMonthTxtbox, dialog_billingSessionOptions_BillThroughPeriodYearTxtbox, dialog_billingSessionOptions_BillThroughPeriodLbl, dialog_billingSessionOptions_BillScheduledInvoicesThroughCmbbox, dialog_billingSessionOptions_DiaryCmbbox, dialog_billingSessionOptions_FinalInvoiceProcessingLbl, dialog_billingSessionOptions_NextCompanyInvoicenumberTxtbox, dialog_billingSessionOptions_DisableUpsetLimitsChkbox, dialog_billingSessionOptions_PostOnAcceptChkbox, dialog_billingSessionOptions_InvoiceAddresseeCmbbox, dialog_billingSessionOptions_UploadRerportViaSFTPChkbox, dialog_billingSessionOptions_OKBtn, dialog_billingSessionOptions_CancelBtn, dialog_billingSessionOptions_CloseBtn, dialog_billingSessionOptions_HelpBtn, dialog_billingSessionOptions_SaveFileAsCmbbox, dialog_emailInvoice_PageTitleLbl, dialog_emailInvoice_HelpBtn, dialog_emailInvoice_CloseBtn, dialog_emailInvoice_SelectEmailTemplateBtn, dialog_emailInvoice_SaveEmailOptionsBtn, dialog_emailInvoice_SelectAttendeesFromCmbbox, dialog_emailInvoice_ContactsGrd, dialog_emailInvoice_EmployeesGrd, dialog_emailInvoice_ProjectRolesGrd, dialog_emailInvoice_ToLnk, dialog_emailInvoice_CCLnk, dialog_emailInvoice_BCCLnk, dialog_emailInvoice_ToTxtbox, dialog_emailInvoice_ToErrorLbl, dialog_emailInvoice_CCTxtbox, dialog_emailInvoice_CCErrorLbl, dialog_emailInvoice_BCCTxtbox, dialog_emailInvoice_BCCErrorLbl, dialog_emailInvoice_SubjectColumnSelectionGrd, dialog_emailInvoice_SubjectTxtbox, dialog_emailInvoice_SubjectInsertFieldLnk, dialog_emailInvoice_MessageTxtbox, dialog_emailInvo",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"detailsView_mainScreen_AbsenceAccrualNameQEdit\" was not found in \"accrualSchedules\". Available elements: addEditView_mainScreen_SaveBtn, addEditView_mainScreen_CancelBtn, addEditView_mainScreen_AccrualScheduleNameTxtbox, addEditView_mainScreen_ScheduleNumberTxtbox, addEditView_mainScreen_AbsenceAccrualScheduleGrd, addEditView_mainScreen_CalculateBasedOnHoursWorkedChkbox, name, detailsView_mainScreen_AbsenseAccrualScheduleTitleLbl, detailsView_mainScreen_FindAccrualScheduleCmbbox, detailsView_mainScreen_NewAccrualScheduleLnk, detailsView_mainScreen_SaveBtn, detailsView_mainScreen_CancelBtn, detailsView_mainScreen_AbsenceAccrualNameTxtbox, detailsView_mainScreen_ScheduleNumberTxtbox, detailsView_mainScreen_AbsenceAccrualScheduleGrd, detailsView_mainScreen_CalcBasedOnHrsWorkedChkbox, detailsView_mainScreen_ActionMenuCmbbox",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Element \"detailsView_mainScreen_PageLbl\" was not found in \"laborPosting\". Available elements: detailsView_mainScreen_PageTitleLbl, detailsView_mainScreen_SaveBtn, detailsView_mainScreen_CompanyLbl, detailsView_mainScreen_GlobalLaborOptionsLbl, detailsView_mainScreen_LaborTypesGrd, detailsView_mainScreen_LaborAccountsGrd, detailsView_mainScreen_OverrideLaborAccountsGrd, name",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: Initial script failed and prerequisite data was not created",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: proj is not defined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: reportingPage.GetCellValue is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: rolesPage.ClickCell(...).GetCellValue is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: rwo is not defined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"perform\" command: value.toUpperCase is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"url\" command: result.value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Error while running \"window\" command: \"Error: POST requests to /window must include a name parameter also.     at listOnTimeout (internal/timers.js:549:17)\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected column headers complete in 1000 ms. - expected \"~Column Name~~Filters~Grouped Columns~Calculated Fields~Date Ranges~Properties~Hide Column~\" but got: \"~Column Name~~Filters~Grouped Columns~Calculated Fields~Date Ranges~Properties~Drill To~Hide Column~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected column headers complete in 1000 ms. - expected \"~Column Name~~Filters~Grouped Columns~Calculated Fields~Date Ranges~Properties~Hide Column~\" but got: \"~Column Name~Filters~Calculated Fields~Date Ranges~Properties~Hide Column~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected column headers complete in 1000 ms. - expected \"~Column Name~Filters~Calculated Fields~Date Ranges~Properties~Hide Column~\" but got: \"~Column Name~Filters~Calculated Fields~Date Ranges~Properties~Drill To~Hide Column~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//div[@class=\"tagsinput\"]//div[@title=\"THISISALONGUSERNAMETHATISNEEDEDTOTESTIFTHEUSERNAMELIMITISCHECKEDTHISISFORAUTOMATIONUSEDANDITWILLGREATLYHELPTHEUSERMODUL2\"]> text to contain: \"THISISALONGUSERNAMETHATISNEEDEDTOTESTIFTHEUSERNAMELIMITISCHECKEDTHISISFORAUTOMATIONUSEDANDITWILLGREATLYHELPTHEUSERMODUL2\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//div[contains(@class,''queue-grid'')]//td[@name=''ProcessStatus''][text()=''Complete'']/..//following-sibling::td[@name=''TimeStarted''][text()=''4/25/2022 07:00 pm'']/..//following-sibling::td[@name=''Description'']//span[text()=''Daily Snapshot Chart UseTruncatedDashpartTitleToTestTheToast'']> to be present - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//div[text()=\" Look Around \"]//..//a[text()=\" Menu Navigation Overview \"]> to have attribute \"href\" which contains: \"/Product/Vantagepoint/4.5/USS/MenuNavigation/\" - expected \"contains ''/Product/Vantagepoint/4.5/USS/MenuNavigation/''\" but got: \"https://help.deltek.com/Product/Vantagepoint/5.0/USS/MenuNavigation/?VP_Equipments=Equipment&VP_EstimateAtCompletion=Estimate-at-Completion&VP_EstimateToComplete=Estimate-to-Complete&VP_JobToDate=Job-to-Date&VP_RevenueMethodType1=Labor&VP_RevenueMethodType2=Consultant&VP_RevenueMethodType3=Reimb&VP_RevenueMethodType4=Revenue%20Method%204&VP_RevenueMethodType5=Revenue%20Method%205&VP_TextLibrary=Boilerplate&VP_TextLibraries=Boilerplates&VP_WBS1=Project&VP_WBS1s=Projects&VP_WBS2=Phase&VP_WBS2s=Phases&VP_WBS3=Task&VP_WBS3s=Tasks&VP_CRLF=%3Cbr%3E\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//div[text()=\" Look Around \"]//..//a[text()=\" Menu Navigation Overview \"]> to have attribute \"href\" which contains: \"/Product/Vantagepoint/5.0/USS/MenuNavigation/\" - expected \"contains ''/Product/Vantagepoint/5.0/USS/MenuNavigation/''\" but got: \"https://help.deltek.com/Product/Vantagepoint/5.5/USS/MenuNavigation/?VP_Equipments=Equipment&VP_EstimateAtCompletion=Estimate-at-Completion&VP_EstimateToComplete=Estimate-to-Complete&VP_JobToDate=Job-to-Date&VP_RevenueMethodType1=Labor&VP_RevenueMethodType2=Consultant&VP_RevenueMethodType3=Reimb&VP_RevenueMethodType4=Revenue%20Method%204&VP_RevenueMethodType5=Revenue%20Method%205&VP_TextLibrary=Boilerplate&VP_TextLibraries=Boilerplates&VP_WBS1=Project&VP_WBS1s=Projects&VP_WBS2=Phase&VP_WBS2s=Phases&VP_WBS3=Task&VP_WBS3s=Tasks&VP_CRLF=%3Cbr%3E\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//td[contains(@id,\"ReportCell\")]//span/following-sibling::table//tr[@valign=''top''][position()=2]//td[(position()=5)]//div[text()=''THISISALONGUSERNAMETHATISNEEDEDTOTESTIFTHEUSERNAMELIMITISCHECKEDTHISISFORAUTOMATIONUSEDANDITWILLGREATLYHELPTHEUSERMODUL2'']> text to equal: \"THISISALONGUSERNAMETHATISNEEDEDTOTESTIFTHEUSERNAMELIMITISCHECKEDTHISISFORAUTOMATIONUSEDANDITWILLGREATLYHELPTHEUSERMODUL2\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//td[contains(text(),''Billing Contact-1'')]> to be present - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <//td[contains(text(),''Project Fax-1'')]> to be present - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <button[class=''btn primary save-btn'']> to not be visible - element was not found - expected \"not visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div#PresCloseDate span.stage-value> text to equal: \"\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div.crm-infobubble-block div.crm-infobubble-block div:nth-child(3)> text to contain: \"Billing Contact Email: None\" - expected \"contain ''Billing Contact Email: None''\" but got: \"Billing Contact Email: threeidiots@gmail.com\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div.message-box span.ui-dialog-title> text to equal: \"Warning\" - expected \"equal ''Warning''\" but got: \"Deltek Vantagepoint\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div.timePeriodsGrid> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"timePeriodsGrid navigator_rpgrid sectionGrid core-component presentation-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[class=''app-nav-popup-search-results''] li[class=''search-result  no-thumbnail selected'']> text to contain: \"89\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-app-id = ''IntercompanyBilling'']> to not be visible - element was not found - expected \"not visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id = ''ALLLANDING'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id = ''LALANDING'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id = ''POSTINGLOGS'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id= ''CDLANDING'']> to have attribute \"class\" which not contains: \"filtering-on\" - expected \"not contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode filtering-on\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''ABSREQ'']> to have attribute \"class\" which not contains: \"filtering-on\" - expected \"not contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component presentation-mode filtering-on\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Activity''] div[data-id=''Activity'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"activity-grid emptyAsNone core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Activity'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component navigator_activity_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Activity'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component navigator_activity_grid navigator_rpgrid sectionGrid core-component presentation-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''BT.NextInvoice'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_number_field core-component presentation-mode has-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''BT.NextInvoice'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-12 canvas-component core_number_field core-component presentation-mode has-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''BTECCats'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"col-sm-12 canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''BTF'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"col-sm-12 canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGCashAcctSetup'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"col-sm-12 canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGCREDITCARDSECONDARY'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGCURRENCYDOWNLOADCODE'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component edit-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGFORMAT.AccountDelimiterPosition'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_number_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGFORMAT.AccountDelimiterPosition'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-4 canvas-component core_number_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGFORMAT.ClientDelimiterPosition'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_number_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''CFGFORMAT.ClientDelimiterPosition'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-4 canvas-component core_number_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Clendor.Client'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_key_format_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Clendor.Client'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-12 canvas-component core_key_format_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''Clendor.Vendor'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_key_format_field core-component edit-mode no-quick-edit is-locked is-required\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''DataSourceTarget'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component presentation-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''EditStructurePageGrid''] table th[name]:nth-child(7) div[title]> text to equal: \"CHARGE TYPE\" - expected \"equal ''CHARGE TYPE''\" but got: \"PRIMARY CLIENT\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''EM.Name'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"header-title core_text_field is-required is-locked core-component edit-mode no-quick-edit has-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''EMPLOYEEBALANCE'']> to have attribute \"class\" which not contains: \"filtering-on\" - expected \"not contains ''filtering-on''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component presentation-mode filtering-on\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''ListPageGrid'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"section-body canvas-component core_grid navigator_rpgrid sectionGrid show-hidden-as-blank core-component presentation-mode\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''ListPageGrid'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"section-body canvas-component core_grid navigator_rpgrid sectionGrid show-hidden-as-blank core-component presentation-mode h-scroll-on\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''NextInvoiceNumber''] > to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_number_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''NextInvoiceNumber''] > to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-4 canvas-component core_number_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''OverheadAllocation.OHAllocMethod'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"canvas-component core_text_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''OverheadAllocation.OHAllocMethod'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"col-sm-4 canvas-component core_text_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PR.BillingClient_ClientAddress'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"address-field col-sm-12 core_text_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PR.PrimaryClient_ClientAddress'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"address-field col-sm-12 core_text_field core-component edit-mode no-quick-edit is-locked\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PR.PrimaryClient_ClientAddress'']> to not have attribute \"class\" which not contains: \"locked\" - expected \"not contains ''locked''\" but got: \"address-field col-sm-12 core_text_field is-locked core-component edit-mode no-quick-edit\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PRDESCRIPTIONS'']> to have attribute \"class\" which contains: \"grid-maximized\" - expected \"contains ''grid-maximized''\" but got: \"canvas-component core_grid navigator_rpgrid sectionGrid core-component presentation-mode grid-add-row-enabled\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PREMP''] tr[class*=''highlight''] td[name=''RecordID'']> to not be present - element was present in 180033ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PREMP''] tr[class*=''highlight''] td[name=''RecordID'']> to not be present - element was present in 180417ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''PREMP''] tr[class*=''highlight''] td[name=''RecordID'']> to not be present - element was present in 180462ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''searchResultsGrid'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"search-results row core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode standard-view-active\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <div[data-id=''searchResultsGrid'']> to have attribute \"class\" which contains: \"filtering-on\" - expected \"contains ''filtering-on''\" but got: \"search-results row standard-view-active core_grid navigator_rpgrid sectionGrid is-locked core-component presentation-mode disable-user-actions\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_addEditContact_Generic1Field1Txtbox]> to not be present - element was present in 180066ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_addEditContact_Generic1Field1Txtbox]> to not be present - element was present in 180079ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_addEditContact_Generic1Field1Txtbox]> to not be present - element was present in 180345ms - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_addEditProject_WonLostDateCmbbox]> to not be visible - element was not found - expected \"not visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_editProjectStructure_EditProjectStructureLbl]> text to contain: \"Edit Project Structure\" - expected \"contain ''Edit Project Structure''\" but got: \"Edit Opportunity Structure\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_mainScreen_StatusDisplayLbl]> text to equal: \"Status: In Progress, Open\" - element was not found - expected \"present\" but got: \"not present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Expected element <Element [name=@addEditView_PageProperties_PaperSizeLbl]> to be visible - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''calendarTaskActivitydetailsContainer'']:not([class *=''x-hidden'']) div[id*=''editfooteractionbar''] div[id*=''ext-deltekbutton'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''calendarTaskActivitydetailsContainer'']:not([class *=''x-hidden'']) div[id*=''ext-titlebar''] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''calendarTaskActivitydetailsContainer'']:not([class *=''x-hidden'']) div[id*=''ext-titlebar''] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''contactDetails''] div[class*=''Status''] div[class*=''field'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[class*=''projectDetailsContainer''] div[class*=''viewDetails'']:not([class*=''x-hidden'']) div[class*=''x-form'']:nth-child(2) div[id*=''ext-customhtmleditor'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[data-componentid*=''ext-pinloginpanel'']:not([class *=''x-hidden'']) input[id=''1'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails]  div[id*=ext-titlebar] div[id*=ext-title]> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset] div[id*=''ext-customhtmleditor'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset]:nth-child(7) div[id*=ext-deltekdatepickerfield]:nth-child(1)> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset]:nth-child(7) div[id*=ext-deltekdatepickerfield]:nth-child(1)> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=editActivityDetails] div[id*=ext-deltekfieldset]:nth-child(7) div[id*=ext-deltektimeedit]:nth-child(3) div[id*=''ext-cleartrigger'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-addReport''] div[id*=''ext-deltekfieldset''] div[id*=''ext-deltekdatepickerfield'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-contactAssociationFormProject''] div[class*=''editContactDetailsContainer'']:nth-child(5) div[id*=''ext-deltekselectfield'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editClientDetails] div[id*=ext-deltekfieldset]:nth-child(5) div[id*=''ext-customhtmleditor'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editContactDetails] div[class*=editContactDetailsContainer]:nth-child(3) div[id*=''ext-deltekselectfield'']:nth-child(4)> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-editContactDetails''] div[class*=''editViewCustomFields''] div[id*=''customhtmleditor'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editContactDetails] div[class*=x-titlebar-right]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editContactDetails] div[id*=ext-deltekfieldset]:nth-child(11) div[id*=ext-deltekselectfield]:nth-child(1)> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editContactDetails] div[id*=ext-deltekfieldset]:nth-child(11) div[id*=ext-deltekselectfield]:nth-child(2)> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-editContactDetails] div[id*=ext-titlebar] div[id*=ext-title]> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-logentryform''] div[class*=''x-formpanel-inner''] div[id*=''ext-deltekfieldset'']:nth-child(5) div[id*=''deltektextfield'']:nth-child(1) input[readonly]> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-newProject'']:not([class*=''x-hidden'']) div[id*=''deltektextfield'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-projectAssociationFormContact] div[id*=ext-deltekfieldset]:nth-child(2) div[id*=ext-deltektextfield]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=ext-qualifyLead] div[id*=ext-deltekfieldset]:nth-child(7)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''ext-reportdetails''] div[class*=''x-form-fieldset''] div[id*=''ext-deltekdatepickerfield'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''laborcodeform''] div[id*=''deltektextfield'']:nth-child(1)> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''startendtimeform''] div[id*=''ext-titlebar''] div[id*=''ext-title'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <form[id*=''unitform''] div[class*=''x-formpanel-inner''] div[id*=''ext-deltekfieldset'']:nth-child(3) div[id*=''deltektextfield'']:nth-child(2)> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input.text-field> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=''FindSystemField'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=''Message'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=''RevenueGroup.MultAmt'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=''ToStartDate'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=userId]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <input[name=userId]> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <li.menu-item[data-key=''columns'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <li[data-id=''EM.Employee'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <li[data-id=''Employees'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <li[data-key=''changeStoredCurrency'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span#stormBannerSettingsMenu> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span#stormBannerSettingsMenu> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.action-popup.navigator_popupmenu> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.action-text[action-bar-data=''checkOut'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.action-text[action-bar-data=''checkOut'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.cke_toolgroup a[title=''Insert Fields'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.company-selector.navigator_popupmenu> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.linked-text.restore-defaults> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.linked-text.restore-defaults> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.page-title> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.period-date> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.progress-area[style*=''block'']> to be removed for 180000 milliseconds. - expected \"not found\" but got: \"found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.ui-dialog-title> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span.ui-dialog-title> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data = ''Submit'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''actionsMenu''].action-popup.navigator_popupmenu> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''actionsMenu''][class*=''popupmenu'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''apply'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''approvalActions''].action-popup.navigator_popupmenu> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''approvalActions''].navigator_popupmenu> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''approvalActions'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''Approve'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''BillingSessionOptions'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''otherActions'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''PostPayments'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''PrintPreview'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[action-bar-data=''submit'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[class=''page-title'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[class=''ui-dialog-title'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <span[title=Projects]> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <td.nav-ddwn-td div.dropdown-field-container> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <td[class=''core_dropdown_field core-component edit-mode fluid edit is-required'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <td[class=''nav-ddwn-td''] div[class*=''dropdown-field-container'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <tr.selected button[name=''WBS1'']> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <tr.selected div.gridImageCell.clickable> to be present for 180000 milliseconds. - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <ul.app-nav-results> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <ul.nav-pills> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <ul[class=''tab-list nav-pills ui-sortable has-nav'']> to be present for 180000 milliseconds. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timed out while waiting for element <ul[data-tabs=''tabs'']> to be visible for 180000 milliseconds. - expected \"visible\" but got: \"not visible\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Timesheet successfully approved. - expected \"found\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "timesheetObj is not defined",
+        "failure_type": "010"
+    },
+    {
+        "error": "Transaction Center is verified to be disabled in the database in 1000 ms. - expected \"not present\" but got: \"present\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div.planningGrid.pm-labor div#calendarGrid ~~~~~17~16~17~~ in 1000 ms. - expected \"~~~~~17~16~17~~\" but got: \"Planned Hours~~~~~~17~16~17~~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div.planningGrid.pm-labor div#calendarGrid 5~5~5~5~5~~~5~5~5~5~5~~~5~~~~~~~~~~~~~~~~ in 1000 ms. - expected \"5~5~5~5~5~~~5~5~5~5~5~~~5~~~~~~~~~~~~~~~~\" but got: \"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div.planningGrid.pm-labor div#calendarGrid 5~5~5~5~5~~~5~5~5~5~5~~~5~5~5~5~5~~~5~5~5~5~5~~~~~ in 1000 ms. - expected \"5~5~5~5~5~~~5~5~5~5~5~~~5~5~5~5~5~~~5~5~5~5~5~~~~~\" but got: \"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div.planningGrid.pm-labor div#summaryGrid 5/16/2022~5/16/2022~5/16/2022~5/16/2022~50~135~50~185~74.23~1,500~50~~-5,820~5,820~1,500~4,320~~1,500 in 1000 ms. - expected \"5/16/2022~5/16/2022~5/16/2022~5/16/2022~50~135~50~185~74.23~1,500~50~~-5,820~5,820~1,500~4,320~~1,500\" but got: \"5/16/2022~5/16/2022~5/16/2022~5/16/2022~50~72~50~122~60.57~1,500~50~~-3,804~3,804~1,500~2,304~~1,500\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div.planningGrid.pm-labor div#summaryGrid 5/6/2022~5/6/2022~5/6/2022~5/6/2022~50~~50~50~0.00~1,500~50~~-1,500~1,500~1,500~~~1,500 in 1000 ms. - expected \"5/6/2022~5/6/2022~5/6/2022~5/6/2022~50~~50~50~0.00~1,500~50~~-1,500~1,500~1,500~~~1,500\" but got: \"5/6/2022~5/6/2022~5/6/2022~5/6/2022~50~45~50~95~48.98~1,500~1,500~50~~-2,940~2,940~1,500~1,440~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''PRESTIMATESUMMARY''] Expenses~~124~155 in 1000 ms. - expected \"Expenses~~124~155\" but got: \"Expenses~~124~\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''reportGrid''] 590805 LTPED~2/7/2022~2/7/2022~~200~200~200~200 in 1000 ms. - expected \"590805 LTPED~2/7/2022~2/7/2022~~200~200~200~200\" but got: \"590805 LTPED~2/7/2022~2/7/2022~45~200~245~200~200\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] ~~~~~ in 1000 ms. - expected \"~~~~~\" but got: \"000228~Bronson Health Care~Bronson Healthcare Group~Tom Marks~HMA General~Active\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] 00.00009899~Code Talkers~1960 Physicians Associates~Aaron Williams~Alleus Call Center~Active in 1000 ms. - expected \"00.00009899~Code Talkers~1960 Physicians Associates~Aaron Williams~Alleus Call Center~Active\" but got: \"00.00000010~Code Talkers~ADEC Inc.~Brett Anderson~Tracepoint Digital Forensics~Active\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] 00.00009899~Code Talkers~1960 Physicians Associates~Aaron Williams~Alleus Call Center~Active in 1000 ms. - expected \"00.00009899~Code Talkers~1960 Physicians Associates~Aaron Williams~Alleus Call Center~Active\" but got: \"G000001~A2P Nano Litz Follow-On~DARPA DSO~Robert Larsen~PVD0 - Comm, Nav, and Cyber~Active\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] 00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active in 1000 ms. - expected \"00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active\" but got: \"01017.00~1984~Van Halen~David Roth~Chicago~Dormant\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] 00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active in 1000 ms. - expected \"00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active\" but got: \"TP.TP000795~ ADEC Inc.~ADEC Inc.~Brett Anderson~Tracepoint Digital Forensics~Dormant\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "undefined div[data-id=''searchResultsGrid''] 00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active in 1000 ms. - expected \"00000.00~Rocky Mountain Way~Joe Walsh~James Hetfield~Sydney~Active\" but got: \"Z19948.000~Salem Avenue: Cox Creek Bridge (Albany)~City of Albany~Doug Sarkkinen~Public Vancouver Structural~Active\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "Value matched for Column Total Hours-1 Row 5 With value 8.00 in 1000 ms. - expected \"8.00\" but got: \"[object Object]\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "value.includes is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "value.split is not a function",
+        "failure_type": "010"
+    },
+    {
+        "error": "Waiting for Delete option... - expected \"visible\" but got: \"not found\"",
+        "failure_type": "010"
+    },
+    {
+        "error": "An error occurred while running .click() command on <select.mode-chooser>:",
+        "failure_type": "010"
+    },
+    {
+        "error": "Correct Dates displayed on tooltip! in 1000 ms. - expected \"6/24/2022 to 7/9/2022\" but got: \"0\"",
+        "failure_type": "010"
+    }
+]
